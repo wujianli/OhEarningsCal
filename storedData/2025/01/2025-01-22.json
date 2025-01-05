@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "TSLA",
       "name": "Tesla, Inc. ",
-      "marketCap": "$1,382,251,689,165",
+      "marketCap": "$1,217,511,427,465",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.65",
       "noOfEsts": "8"
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "PG",
       "name": "Procter & Gamble Company (The)",
-      "marketCap": "$395,906,065,062",
+      "marketCap": "$390,889,826,179",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.88",
       "noOfEsts": "13"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCap": "$349,755,389,142",
+      "marketCap": "$346,745,860,427",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2",
       "noOfEsts": "8"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "ASML",
       "name": "ASML Holding N.V.",
-      "marketCap": "$283,672,797,709",
+      "marketCap": "$275,560,441,822",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$7.18",
       "noOfEsts": "4"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "NOW",
       "name": "ServiceNow, Inc.",
-      "marketCap": "$224,181,560,000",
+      "marketCap": "$217,194,040,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.77",
       "noOfEsts": "10"
@@ -59,10 +59,10 @@
     {
       "lastYearRptDt": "1/24/2024",
       "lastYearEPS": "$1.19",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "ABT",
       "name": "Abbott Laboratories",
-      "marketCap": "$198,265,575,398",
+      "marketCap": "$196,756,599,362",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.34",
       "noOfEsts": "9"
@@ -73,9 +73,9 @@
       "time": "time-not-supplied",
       "symbol": "PGR",
       "name": "Progressive Corporation (The)",
-      "marketCap": "$141,186,430,338",
+      "marketCap": "$140,975,538,196",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.34",
+      "epsForecast": "$3.43",
       "noOfEsts": "11"
     },
     {
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "IBN",
       "name": "ICICI Bank Limited",
-      "marketCap": "$107,266,692,097",
+      "marketCap": "$104,874,388,042",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.36",
       "noOfEsts": "1"
@@ -95,10 +95,10 @@
       "time": "time-pre-market",
       "symbol": "GEV",
       "name": "GE Vernova Inc.",
-      "marketCap": "$95,078,222,412",
+      "marketCap": "$93,429,817,651",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.40",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "LRCX",
       "name": "Lam Research Corporation",
-      "marketCap": "$94,957,353,000",
+      "marketCap": "$93,207,461,400",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.87",
       "noOfEsts": "10"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "ELV",
       "name": "Elevance Health, Inc.",
-      "marketCap": "$86,017,852,855",
+      "marketCap": "$84,844,323,411",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.82",
       "noOfEsts": "17"
@@ -128,7 +128,7 @@
       "time": "time-pre-market",
       "symbol": "APH",
       "name": "Amphenol Corporation",
-      "marketCap": "$85,586,460,409",
+      "marketCap": "$83,199,346,850",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.50",
       "noOfEsts": "8"
@@ -139,21 +139,10 @@
       "time": "time-not-supplied",
       "symbol": "GD",
       "name": "General Dynamics Corporation",
-      "marketCap": "$72,918,928,072",
+      "marketCap": "$71,769,559,245",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.30",
       "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.27",
-      "time": "time-not-supplied",
-      "symbol": "FCX",
-      "name": "Freeport-McMoran, Inc.",
-      "marketCap": "$56,399,412,617",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.38",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "1/19/2024",
@@ -161,10 +150,21 @@
       "time": "time-pre-market",
       "symbol": "TRV",
       "name": "The Travelers Companies, Inc.",
-      "marketCap": "$54,793,296,909",
+      "marketCap": "$54,686,597,997",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$6.39",
       "noOfEsts": "13"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.27",
+      "time": "time-not-supplied",
+      "symbol": "FCX",
+      "name": "Freeport-McMoran, Inc.",
+      "marketCap": "$54,430,821,654",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.38",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "AMP",
       "name": "AMERIPRISE FINANCIAL SERVICES, LLC",
-      "marketCap": "$51,828,091,594",
+      "marketCap": "$51,413,839,397",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$9.07",
       "noOfEsts": "6"
@@ -183,10 +183,21 @@
       "time": "time-not-supplied",
       "symbol": "URI",
       "name": "United Rentals, Inc.",
-      "marketCap": "$47,221,863,928",
+      "marketCap": "$45,268,285,705",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$11.81",
       "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "1/17/2024",
+      "lastYearEPS": "$1.54",
+      "time": "time-after-hours",
+      "symbol": "DFS",
+      "name": "Discover Financial Services",
+      "marketCap": "$43,763,729,464",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$2.83",
+      "noOfEsts": "13"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "KMB",
       "name": "Kimberly-Clark Corporation",
-      "marketCap": "$43,833,308,489",
+      "marketCap": "$43,563,185,392",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.49",
       "noOfEsts": "7"
@@ -202,10 +213,10 @@
     {
       "lastYearRptDt": "1/24/2024",
       "lastYearEPS": "$1.84",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "TEL",
       "name": "TE Connectivity plc",
-      "marketCap": "$43,112,255,130",
+      "marketCap": "$42,074,162,525",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.89",
       "noOfEsts": "8"
@@ -216,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "CCI",
       "name": "Crown Castle Inc.",
-      "marketCap": "$39,439,787,376",
+      "marketCap": "$38,792,236,046",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.74",
       "noOfEsts": "6"
@@ -227,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "LVS",
       "name": "Las Vegas Sands Corp.",
-      "marketCap": "$37,454,852,355",
+      "marketCap": "$36,178,806,282",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.59",
       "noOfEsts": "8"
@@ -238,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "RMD",
       "name": "ResMed Inc.",
-      "marketCap": "$33,934,772,602",
+      "marketCap": "$33,539,892,046",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.29",
       "noOfEsts": "4"
@@ -249,7 +260,7 @@
       "time": "time-pre-market",
       "symbol": "HAL",
       "name": "Halliburton Company",
-      "marketCap": "$23,069,462,126",
+      "marketCap": "$24,360,860,044",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.70",
       "noOfEsts": "11"
@@ -260,7 +271,7 @@
       "time": "time-not-supplied",
       "symbol": "WRB",
       "name": "W.R. Berkley Corporation",
-      "marketCap": "$22,258,247,299",
+      "marketCap": "$22,105,819,651",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.95",
       "noOfEsts": "7"
@@ -271,7 +282,7 @@
       "time": "time-not-supplied",
       "symbol": "TDY",
       "name": "Teledyne Technologies Incorporated",
-      "marketCap": "$21,907,751,102",
+      "marketCap": "$21,343,396,994",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$5.23",
       "noOfEsts": "5"
@@ -282,7 +293,7 @@
       "time": "time-not-supplied",
       "symbol": "STX",
       "name": "Seagate Technology Holdings PLC",
-      "marketCap": "$18,726,707,431",
+      "marketCap": "$18,274,034,282",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.67",
       "noOfEsts": "4"
@@ -293,21 +304,10 @@
       "time": "time-pre-market",
       "symbol": "TXT",
       "name": "Textron Inc.",
-      "marketCap": "$14,180,505,557",
+      "marketCap": "$14,059,923,027",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.31",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$1.50",
-      "time": "time-not-supplied",
-      "symbol": "SF",
-      "name": "Stifel Financial Corporation",
-      "marketCap": "$10,843,227,134",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.95",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/19/2024",
@@ -315,21 +315,32 @@
       "time": "time-pre-market",
       "symbol": "ALLY",
       "name": "Ally Financial Inc.",
-      "marketCap": "$10,744,243,283",
+      "marketCap": "$10,896,600,675",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.63",
       "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.18",
+      "lastYearEPS": "$1.50",
       "time": "time-not-supplied",
-      "symbol": "EDU",
-      "name": "New Oriental Education & Technology Group, Inc.",
-      "marketCap": "$10,295,775,325",
-      "fiscalQuarterEnding": "Nov/2024",
-      "epsForecast": "$0.36",
-      "noOfEsts": "1"
+      "symbol": "SF",
+      "name": "Stifel Financial Corporation",
+      "marketCap": "$10,862,674,115",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.95",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/17/2024",
+      "lastYearEPS": "($0.56)",
+      "time": "time-after-hours",
+      "symbol": "AA",
+      "name": "Alcoa Corporation",
+      "marketCap": "$9,814,899,915",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.91",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -337,7 +348,7 @@
       "time": "time-not-supplied",
       "symbol": "CACI",
       "name": "CACI International, Inc.",
-      "marketCap": "$9,075,750,533",
+      "marketCap": "$9,208,854,967",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$5.15",
       "noOfEsts": "6"
@@ -348,10 +359,21 @@
       "time": "time-not-supplied",
       "symbol": "KNX",
       "name": "Knight Transportation, Inc.",
-      "marketCap": "$8,552,807,190",
+      "marketCap": "$8,536,617,890",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
       "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "1/18/2024",
+      "lastYearEPS": "$0.84",
+      "time": "time-pre-market",
+      "symbol": "CBSH",
+      "name": "Commerce Bancshares, Inc.",
+      "marketCap": "$8,313,952,816",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.95",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "1/19/2024",
@@ -359,7 +381,7 @@
       "time": "time-pre-market",
       "symbol": "CMA",
       "name": "Comerica Incorporated",
-      "marketCap": "$8,135,467,051",
+      "marketCap": "$8,081,546,238",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.25",
       "noOfEsts": "8"
@@ -370,21 +392,10 @@
       "time": "time-not-supplied",
       "symbol": "RLI",
       "name": "RLI Corp.",
-      "marketCap": "$7,561,458,319",
+      "marketCap": "$7,478,521,465",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.93",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$1.78",
-      "time": "time-not-supplied",
-      "symbol": "BOKF",
-      "name": "BOK Financial Corporation",
-      "marketCap": "$6,981,854,427",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.97",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -392,29 +403,18 @@
       "time": "time-not-supplied",
       "symbol": "SLM",
       "name": "SLM Corporation",
-      "marketCap": "$5,832,717,928",
+      "marketCap": "$5,807,238,272",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.55",
       "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.44",
-      "time": "time-not-supplied",
-      "symbol": "COLB",
-      "name": "Columbia Banking System, Inc.",
-      "marketCap": "$5,674,105,085",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.65",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
       "lastYearEPS": "$0.43",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "HXL",
       "name": "Hexcel Corporation",
-      "marketCap": "$5,059,392,914",
+      "marketCap": "$5,005,931,510",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.51",
       "noOfEsts": "8"
@@ -425,10 +425,10 @@
       "time": "time-not-supplied",
       "symbol": "CNS",
       "name": "Cohen & Steers Inc",
-      "marketCap": "$4,680,637,235",
+      "marketCap": "$4,619,462,348",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -436,7 +436,7 @@
       "time": "time-after-hours",
       "symbol": "SLG",
       "name": "SL Green Realty Corp",
-      "marketCap": "$4,451,902,149",
+      "marketCap": "$4,507,938,234",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.58",
       "noOfEsts": "5"
@@ -447,7 +447,7 @@
       "time": "time-not-supplied",
       "symbol": "PLXS",
       "name": "Plexus Corp.",
-      "marketCap": "$4,317,443,111",
+      "marketCap": "$4,205,280,620",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.46",
       "noOfEsts": "2"
@@ -458,10 +458,21 @@
       "time": "time-not-supplied",
       "symbol": "UCB",
       "name": "United Community Banks, Inc.",
-      "marketCap": "$3,792,127,562",
+      "marketCap": "$3,761,112,993",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.56",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.54",
+      "time": "time-not-supplied",
+      "symbol": "LBRT",
+      "name": "Liberty Energy Inc.",
+      "marketCap": "$3,384,338,836",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.14",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -469,7 +480,7 @@
       "time": "time-not-supplied",
       "symbol": "CATY",
       "name": "Cathay General Bancorp",
-      "marketCap": "$3,386,918,924",
+      "marketCap": "$3,353,455,567",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.11",
       "noOfEsts": "3"
@@ -480,7 +491,7 @@
       "time": "time-not-supplied",
       "symbol": "FBP",
       "name": "First BanCorp.",
-      "marketCap": "$3,052,902,422",
+      "marketCap": "$3,008,657,459",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.41",
       "noOfEsts": "3"
@@ -491,32 +502,10 @@
       "time": "time-not-supplied",
       "symbol": "CVBF",
       "name": "CVB Financial Corporation",
-      "marketCap": "$3,040,781,656",
+      "marketCap": "$2,910,881,475",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.54",
-      "time": "time-not-supplied",
-      "symbol": "LBRT",
-      "name": "Liberty Energy Inc.",
-      "marketCap": "$3,023,190,172",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.15",
-      "noOfEsts": "8"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.40",
-      "time": "time-not-supplied",
-      "symbol": "SFNC",
-      "name": "Simmons First National Corporation",
-      "marketCap": "$2,815,354,193",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.35",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -524,7 +513,7 @@
       "time": "time-not-supplied",
       "symbol": "CNXC",
       "name": "Concentrix Corporation",
-      "marketCap": "$2,715,257,395",
+      "marketCap": "$2,822,208,331",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "$2.79",
       "noOfEsts": "1"
@@ -535,10 +524,21 @@
       "time": "time-not-supplied",
       "symbol": "TOWN",
       "name": "Towne Bank",
-      "marketCap": "$2,556,389,725",
+      "marketCap": "$2,478,787,702",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.45",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "1/18/2024",
+      "lastYearEPS": "$1.34",
+      "time": "time-after-hours",
+      "symbol": "BANR",
+      "name": "Banner Corporation",
+      "marketCap": "$2,274,986,018",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.22",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -546,7 +546,7 @@
       "time": "time-not-supplied",
       "symbol": "SYBT",
       "name": "Stock Yards Bancorp, Inc.",
-      "marketCap": "$2,141,247,981",
+      "marketCap": "$2,068,304,369",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.99",
       "noOfEsts": "3"
@@ -557,7 +557,7 @@
       "time": "time-pre-market",
       "symbol": "OFG",
       "name": "OFG Bancorp",
-      "marketCap": "$1,953,417,305",
+      "marketCap": "$1,909,355,260",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.97",
       "noOfEsts": "1"
@@ -568,7 +568,7 @@
       "time": "time-not-supplied",
       "symbol": "FBNC",
       "name": "First Bancorp",
-      "marketCap": "$1,837,648,299",
+      "marketCap": "$1,777,702,517",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.72",
       "noOfEsts": "2"
@@ -579,9 +579,20 @@
       "time": "time-not-supplied",
       "symbol": "CASH",
       "name": "Pathward Financial, Inc.",
-      "marketCap": "$1,786,773,152",
+      "marketCap": "$1,748,905,525",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.14",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.36",
+      "time": "time-not-supplied",
+      "symbol": "LOB",
+      "name": "Live Oak Bancshares, Inc.",
+      "marketCap": "$1,741,599,668",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.49",
       "noOfEsts": "2"
     },
     {
@@ -590,21 +601,10 @@
       "time": "time-not-supplied",
       "symbol": "CHCO",
       "name": "City Holding Company",
-      "marketCap": "$1,779,692,231",
+      "marketCap": "$1,725,147,347",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.91",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.36",
-      "time": "time-not-supplied",
-      "symbol": "LOB",
-      "name": "Live Oak Bancshares, Inc.",
-      "marketCap": "$1,772,780,358",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.49",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -612,7 +612,7 @@
       "time": "time-not-supplied",
       "symbol": "PFBC",
       "name": "Preferred Bank",
-      "marketCap": "$1,241,281,146",
+      "marketCap": "$1,227,785,839",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.37",
       "noOfEsts": "4"
@@ -623,10 +623,10 @@
       "time": "time-not-supplied",
       "symbol": "NG",
       "name": "Novagold Resources Inc.",
-      "marketCap": "$1,093,588,431",
+      "marketCap": "$1,147,097,345",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -634,21 +634,10 @@
       "time": "time-not-supplied",
       "symbol": "FBMS",
       "name": "The First Bancshares, Inc.",
-      "marketCap": "$1,078,552,852",
+      "marketCap": "$1,083,232,717",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.64",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.26",
-      "time": "time-not-supplied",
-      "symbol": "BRKL",
-      "name": "Brookline Bancorp, Inc.",
-      "marketCap": "$1,064,726,393",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.24",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -656,9 +645,20 @@
       "time": "time-not-supplied",
       "symbol": "OBK",
       "name": "Origin Bancorp, Inc.",
-      "marketCap": "$1,036,360,405",
+      "marketCap": "$1,037,918,842",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.50",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.26",
+      "time": "time-not-supplied",
+      "symbol": "BRKL",
+      "name": "Brookline Bancorp, Inc.",
+      "marketCap": "$1,033,541,938",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.24",
       "noOfEsts": "3"
     },
     {
@@ -667,7 +667,7 @@
       "time": "time-not-supplied",
       "symbol": "AMSC",
       "name": "American Superconductor Corporation",
-      "marketCap": "$998,560,871",
+      "marketCap": "$1,008,029,643",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.02",
       "noOfEsts": "2"
@@ -678,7 +678,7 @@
       "time": "time-not-supplied",
       "symbol": "AMTB",
       "name": "Amerant Bancorp Inc.",
-      "marketCap": "$952,493,048",
+      "marketCap": "$907,858,095",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.37",
       "noOfEsts": "3"
@@ -689,21 +689,10 @@
       "time": "time-not-supplied",
       "symbol": "UVSP",
       "name": "Univest Financial Corporation",
-      "marketCap": "$861,413,274",
+      "marketCap": "$843,406,658",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.61",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.67",
-      "time": "time-not-supplied",
-      "symbol": "EGBN",
-      "name": "Eagle Bancorp, Inc.",
-      "marketCap": "$801,850,833",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.44",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -711,20 +700,20 @@
       "time": "time-not-supplied",
       "symbol": "OSBC",
       "name": "Old Second Bancorp, Inc.",
-      "marketCap": "$800,186,208",
+      "marketCap": "$786,730,161",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.49",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.10",
+      "lastYearEPS": "$0.67",
       "time": "time-not-supplied",
-      "symbol": "CFFN",
-      "name": "Capitol Federal Financial, Inc.",
-      "marketCap": "$787,351,984",
+      "symbol": "EGBN",
+      "name": "Eagle Bancorp, Inc.",
+      "marketCap": "$762,588,834",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.11",
+      "epsForecast": "$0.52",
       "noOfEsts": "1"
     },
     {
@@ -733,7 +722,7 @@
       "time": "time-not-supplied",
       "symbol": "MNRO",
       "name": "Monro, Inc. ",
-      "marketCap": "$752,927,488",
+      "marketCap": "$734,957,858",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.28",
       "noOfEsts": "3"
@@ -744,7 +733,7 @@
       "time": "time-not-supplied",
       "symbol": "ETD",
       "name": "Ethan Allen Interiors Inc.",
-      "marketCap": "$720,430,766",
+      "marketCap": "$707,970,086",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.60",
       "noOfEsts": "1"
@@ -755,7 +744,7 @@
       "time": "time-not-supplied",
       "symbol": "HBNC",
       "name": "Horizon Bancorp, Inc.",
-      "marketCap": "$709,935,140",
+      "marketCap": "$692,011,900",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.39",
       "noOfEsts": "3"
@@ -766,7 +755,7 @@
       "time": "time-not-supplied",
       "symbol": "HBT",
       "name": "HBT Financial, Inc.",
-      "marketCap": "$693,990,458",
+      "marketCap": "$678,526,369",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.58",
       "noOfEsts": "3"
@@ -774,24 +763,13 @@
     {
       "lastYearRptDt": "1/24/2024",
       "lastYearEPS": "$0.77",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "EQBK",
       "name": "Equity Bancshares, Inc.",
-      "marketCap": "$647,359,928",
+      "marketCap": "$633,905,116",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.92",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "($0.07)",
-      "time": "time-not-supplied",
-      "symbol": "LVRO",
-      "name": "Lavoro Limited",
-      "marketCap": "$599,366,811",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "($0.34)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -799,20 +777,9 @@
       "time": "time-not-supplied",
       "symbol": "HTBI",
       "name": "HomeTrust Bancshares, Inc.",
-      "marketCap": "$596,543,245",
+      "marketCap": "$581,116,914",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.74",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.76",
-      "time": "time-not-supplied",
-      "symbol": "WASH",
-      "name": "Washington Trust Bancorp, Inc.",
-      "marketCap": "$543,174,334",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.58",
       "noOfEsts": "2"
     },
     {
@@ -821,10 +788,21 @@
       "time": "time-not-supplied",
       "symbol": "FMNB",
       "name": "Farmers National Banc Corp.",
-      "marketCap": "$537,880,444",
+      "marketCap": "$523,597,106",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.76",
+      "time": "time-not-supplied",
+      "symbol": "WASH",
+      "name": "Washington Trust Bancorp, Inc.",
+      "marketCap": "$512,969,541",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.58",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -832,7 +810,7 @@
       "time": "time-not-supplied",
       "symbol": "NFBK",
       "name": "Northfield Bancorp, Inc.",
-      "marketCap": "$507,126,237",
+      "marketCap": "$490,822,686",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.19",
       "noOfEsts": "2"
@@ -843,7 +821,7 @@
       "time": "time-not-supplied",
       "symbol": "ALRS",
       "name": "Alerus Financial Corporation",
-      "marketCap": "$501,191,178",
+      "marketCap": "$484,974,679",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.07",
       "noOfEsts": "2"
@@ -854,7 +832,7 @@
       "time": "time-not-supplied",
       "symbol": "BWB",
       "name": "Bridgewater Bancshares, Inc.",
-      "marketCap": "$376,554,723",
+      "marketCap": "$365,035,933",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.22",
       "noOfEsts": "2"
@@ -865,7 +843,7 @@
       "time": "time-not-supplied",
       "symbol": "FRBA",
       "name": "First Bank",
-      "marketCap": "$352,384,330",
+      "marketCap": "$344,089,977",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.39",
       "noOfEsts": "2"
@@ -876,21 +854,10 @@
       "time": "time-not-supplied",
       "symbol": "FSBW",
       "name": "FS Bancorp, Inc.",
-      "marketCap": "$326,288,759",
+      "marketCap": "$313,859,455",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.04",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.48",
-      "time": "time-not-supplied",
-      "symbol": "INBK",
-      "name": "First Internet Bancorp",
-      "marketCap": "$319,845,288",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.97",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -898,9 +865,20 @@
       "time": "time-not-supplied",
       "symbol": "COFS",
       "name": "ChoiceOne Financial Services, Inc.",
-      "marketCap": "$316,293,809",
+      "marketCap": "$310,292,199",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.82",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.48",
+      "time": "time-not-supplied",
+      "symbol": "INBK",
+      "name": "First Internet Bancorp",
+      "marketCap": "$305,976,658",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.97",
       "noOfEsts": "2"
     },
     {
@@ -909,10 +887,10 @@
       "time": "time-not-supplied",
       "symbol": "FNLC",
       "name": "First Bancorp, Inc (ME)",
-      "marketCap": "$300,430,677",
+      "marketCap": "$296,973,605",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -920,9 +898,20 @@
       "time": "time-not-supplied",
       "symbol": "JMSB",
       "name": "John Marshall Bancorp, Inc.",
-      "marketCap": "$299,044,473",
+      "marketCap": "$283,095,434",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.31",
+      "time": "time-not-supplied",
+      "symbol": "CBAN",
+      "name": "Colony Bankcorp, Inc.",
+      "marketCap": "$277,276,443",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.36",
       "noOfEsts": "1"
     },
     {
@@ -931,21 +920,10 @@
       "time": "time-not-supplied",
       "symbol": "FDBC",
       "name": "Fidelity D & D Bancorp, Inc.",
-      "marketCap": "$290,644,386",
+      "marketCap": "$269,306,373",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "1/24/2024",
-      "lastYearEPS": "$0.31",
-      "time": "time-not-supplied",
-      "symbol": "CBAN",
-      "name": "Colony Bankcorp, Inc.",
-      "marketCap": "$282,183,991",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.36",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -953,21 +931,10 @@
       "time": "time-not-supplied",
       "symbol": "SBT",
       "name": "Sterling Bancorp, Inc.",
-      "marketCap": "$247,964,828",
+      "marketCap": "$249,011,093",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.67",
-      "time": "time-not-supplied",
-      "symbol": "PKBK",
-      "name": "Parke Bancorp, Inc.",
-      "marketCap": "$247,912,630",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -975,10 +942,21 @@
       "time": "time-not-supplied",
       "symbol": "BWFG",
       "name": "Bankwell Financial Group, Inc.",
-      "marketCap": "$244,323,034",
+      "marketCap": "$238,114,761",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.67",
+      "time": "time-not-supplied",
+      "symbol": "PKBK",
+      "name": "Parke Bancorp, Inc.",
+      "marketCap": "$236,028,036",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -986,10 +964,10 @@
       "time": "time-not-supplied",
       "symbol": "CFFI",
       "name": "C&F Financial Corporation",
-      "marketCap": "$229,165,309",
+      "marketCap": "$226,907,523",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -997,7 +975,7 @@
       "time": "time-not-supplied",
       "symbol": "BLFY",
       "name": "Blue Foundry Bancorp",
-      "marketCap": "$222,719,596",
+      "marketCap": "$216,108,677",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.17)",
       "noOfEsts": "1"
@@ -1008,10 +986,10 @@
       "time": "time-not-supplied",
       "symbol": "ESSA",
       "name": "ESSA Bancorp, Inc.",
-      "marketCap": "$196,391,201",
+      "marketCap": "$194,360,268",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "1/24/2024",
@@ -1019,7 +997,7 @@
       "time": "time-pre-market",
       "symbol": "FCCO",
       "name": "First Community Corporation",
-      "marketCap": "$183,910,397",
+      "marketCap": "$181,923,828",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.50",
       "noOfEsts": "2"
@@ -1030,20 +1008,9 @@
       "time": "time-not-supplied",
       "symbol": "HNVR",
       "name": "Hanover Bancorp, Inc.",
-      "marketCap": "$162,077,938",
+      "marketCap": "$160,575,892",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.49",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "MNDR",
-      "name": "Mobile-health Network Solutions",
-      "marketCap": "$9,312,762",
-      "fiscalQuarterEnding": "Sep/2024",
-      "epsForecast": "",
       "noOfEsts": "1"
     }
   ]
