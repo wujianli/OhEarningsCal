@@ -44,6 +44,17 @@
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.12)",
+      "time": "time-after-hours",
+      "symbol": "RMCF",
+      "name": "Rocky Mountain Chocolate Factory, Inc.",
+      "marketCap": "$20,286,176",
+      "fiscalQuarterEnding": "Nov/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
     }
   ]
 }
