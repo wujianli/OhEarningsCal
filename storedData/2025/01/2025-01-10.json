@@ -2,9 +2,9 @@
   "date": "2025-01-10",
   "data": [
     {
-      "lastYearRptDt": "1/05/2024",
-      "lastYearEPS": "$3.19",
-      "time": "time-pre-market",
+      "eps": "$3.25",
+      "surprise": "-2.69",
+      "time": "time-not-supplied",
       "symbol": "STZ",
       "name": "Constellation Brands Inc",
       "marketCap": "$39,812,900,668",
@@ -13,9 +13,9 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "1/12/2024",
-      "lastYearEPS": "$1.28",
-      "time": "time-pre-market",
+      "eps": "$1.85",
+      "surprise": "5.11",
+      "time": "time-not-supplied",
       "symbol": "DAL",
       "name": "Delta Air Lines, Inc.",
       "marketCap": "$39,633,172,593",
@@ -24,9 +24,9 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "$2.98",
-      "time": "time-pre-market",
+      "eps": "$2.90",
+      "surprise": "2.11",
+      "time": "time-not-supplied",
       "symbol": "SNX",
       "name": "TD SYNNEX Corporation",
       "marketCap": "$10,389,247,852",
@@ -35,9 +35,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "1/04/2024",
-      "lastYearEPS": "$0.66",
-      "time": "time-pre-market",
+      "eps": "$0.51",
+      "surprise": "37.84",
+      "time": "time-not-supplied",
       "symbol": "WBA",
       "name": "Walgreens Boots Alliance, Inc.",
       "marketCap": "$7,971,769,938",
@@ -46,8 +46,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "$1.28",
+      "eps": "$1.28",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WDFC",
       "name": "WD-40 Company",
@@ -57,9 +57,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "$0.11",
-      "time": "time-pre-market",
+      "eps": "$0.11",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "NEOG",
       "name": "Neogen Corporation",
       "marketCap": "$2,832,244,663",
@@ -68,9 +68,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.10)",
+      "surprise": "-150",
+      "time": "time-not-supplied",
       "symbol": "TLRY",
       "name": "Tilray Brands, Inc.",
       "marketCap": "$1,154,857,607",
@@ -79,19 +79,30 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "1/09/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-pre-market",
+      "eps": "$0.05",
+      "surprise": "-16.67",
+      "time": "time-not-supplied",
       "symbol": "ETWO",
       "name": "E2open Parent Holdings, Inc.",
       "marketCap": "$837,454,061",
       "fiscalQuarterEnding": "Nov/2024",
-      "epsForecast": "$0.05",
+      "epsForecast": "$0.06",
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "1/12/2024",
-      "lastYearEPS": "$0.96",
+      "eps": "($0.30)",
+      "surprise": "3.23",
+      "time": "time-not-supplied",
+      "symbol": "ACCD",
+      "name": "Accolade, Inc.",
+      "marketCap": "$552,484,368",
+      "fiscalQuarterEnding": "Nov/2024",
+      "epsForecast": "($0.31)",
+      "noOfEsts": "8"
+    },
+    {
+      "eps": "$0.96",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "UNTY",
       "name": "Unity Bancorp, Inc.",
@@ -101,8 +112,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.02)",
+      "eps": "($0.02)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PLG",
       "name": "Platinum Group Metals Ltd.",
@@ -112,8 +123,19 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "1/12/2024",
-      "lastYearEPS": "($0.13)",
+      "eps": "($0.23)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "HURC",
+      "name": "Hurco Companies, Inc.",
+      "marketCap": "$124,539,729",
+      "fiscalQuarterEnding": "Oct/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.16)",
+      "surprise": "-33.33",
       "time": "time-not-supplied",
       "symbol": "LEXX",
       "name": "Lexaria Bioscience Corp.",
@@ -121,6 +143,17 @@
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "($0.12)",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.08)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "LEDS",
+      "name": "SemiLEDS Corporation",
+      "marketCap": "$9,735,846",
+      "fiscalQuarterEnding": "Nov/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
