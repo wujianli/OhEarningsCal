@@ -36,6 +36,17 @@
     },
     {
       "lastYearRptDt": "2/02/2024",
+      "lastYearEPS": "$3.89",
+      "time": "time-pre-market",
+      "symbol": "AON",
+      "name": "Aon plc",
+      "marketCap": "$75,587,226,823",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4.24",
+      "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "2/02/2024",
       "lastYearEPS": "$8.33",
       "time": "time-pre-market",
       "symbol": "GWW",
@@ -69,13 +80,24 @@
     },
     {
       "lastYearRptDt": "2/02/2024",
+      "lastYearEPS": "$0.65",
+      "time": "time-pre-market",
+      "symbol": "CHD",
+      "name": "Church & Dwight Company, Inc.",
+      "marketCap": "$24,847,649,999",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.77",
+      "noOfEsts": "13"
+    },
+    {
+      "lastYearRptDt": "2/02/2024",
       "lastYearEPS": "$1.26",
       "time": "time-pre-market",
       "symbol": "LYB",
       "name": "LyondellBasell Industries NV",
       "marketCap": "$23,538,374,241",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.08",
+      "epsForecast": "$0.96",
       "noOfEsts": "7"
     },
     {
@@ -88,6 +110,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.48",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "2/01/2024",
+      "lastYearEPS": "$1.25",
+      "time": "time-pre-market",
+      "symbol": "RVTY",
+      "name": "Revvity, Inc.",
+      "marketCap": "$13,859,440,272",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.36",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/02/2024",
@@ -187,6 +220,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.25",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "1/26/2024",
+      "lastYearEPS": "$0.37",
+      "time": "time-pre-market",
+      "symbol": "FHB",
+      "name": "First Hawaiian, Inc.",
+      "marketCap": "$3,166,461,494",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.40",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/06/2024",
