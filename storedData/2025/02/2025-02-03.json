@@ -201,17 +201,6 @@
     },
     {
       "lastYearRptDt": "2/05/2024",
-      "lastYearEPS": "$1.05",
-      "time": "time-after-hours",
-      "symbol": "ACM",
-      "name": "AECOM",
-      "marketCap": "$14,368,337,972",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.11",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/05/2024",
       "lastYearEPS": "$0.22",
       "time": "time-not-supplied",
       "symbol": "COHR",
@@ -220,6 +209,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.51",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "2/05/2024",
+      "lastYearEPS": "$1.05",
+      "time": "time-after-hours",
+      "symbol": "ACM",
+      "name": "AECOM",
+      "marketCap": "$14,023,932,342",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.11",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -293,7 +293,7 @@
       "time": "time-after-hours",
       "symbol": "BRBR",
       "name": "BellRing Brands, Inc.",
-      "marketCap": "$9,216,956,224",
+      "marketCap": "$9,144,838,081",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.47",
       "noOfEsts": "7"
@@ -304,7 +304,7 @@
       "time": "time-not-supplied",
       "symbol": "FN",
       "name": "Fabrinet",
-      "marketCap": "$8,043,129,521",
+      "marketCap": "$8,281,772,224",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.27",
       "noOfEsts": "4"
@@ -436,7 +436,7 @@
       "time": "time-after-hours",
       "symbol": "NEU",
       "name": "NewMarket Corporation",
-      "marketCap": "$4,719,689,960",
+      "marketCap": "$4,633,718,662",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -502,7 +502,7 @@
       "time": "time-not-supplied",
       "symbol": "HI",
       "name": "Hillenbrand Inc",
-      "marketCap": "$2,223,796,563",
+      "marketCap": "$2,161,283,015",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.54",
       "noOfEsts": "1"
@@ -546,7 +546,7 @@
       "time": "time-not-supplied",
       "symbol": "LUCK",
       "name": "Lucky Strike Entertainment Corporation",
-      "marketCap": "$1,505,865,138",
+      "marketCap": "$1,529,371,325",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.07",
       "noOfEsts": "8"
@@ -557,7 +557,7 @@
       "time": "time-not-supplied",
       "symbol": "SPHR",
       "name": "Sphere Entertainment Co.",
-      "marketCap": "$1,490,073,455",
+      "marketCap": "$1,488,999,657",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($2.15)",
       "noOfEsts": "2"
@@ -590,7 +590,7 @@
       "time": "time-not-supplied",
       "symbol": "TWO",
       "name": "Two Harbors Investments Corp",
-      "marketCap": "$1,149,479,897",
+      "marketCap": "$1,150,516,398",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.12",
       "noOfEsts": "2"
@@ -843,7 +843,7 @@
       "time": "time-not-supplied",
       "symbol": "CHGG",
       "name": "Chegg, Inc.",
-      "marketCap": "$168,977,869",
+      "marketCap": "$186,710,115",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.01",
       "noOfEsts": "5"
@@ -920,7 +920,7 @@
       "time": "time-not-supplied",
       "symbol": "BEDU",
       "name": "Bright Scholar Education Holdings Limited",
-      "marketCap": "$43,697,519",
+      "marketCap": "$51,723,594",
       "fiscalQuarterEnding": "Nov/2024",
       "epsForecast": "",
       "noOfEsts": "2"
