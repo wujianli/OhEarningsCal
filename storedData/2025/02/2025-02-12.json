@@ -14,17 +14,6 @@
     },
     {
       "lastYearRptDt": "2/14/2024",
-      "lastYearEPS": "$0.40",
-      "time": "time-not-supplied",
-      "symbol": "SONY",
-      "name": "Sony Group Corporation",
-      "marketCap": "$124,332,639,297",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.26",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$0.49",
       "time": "time-after-hours",
       "symbol": "APP",
@@ -86,7 +75,7 @@
       "name": "Manulife Financial Corp",
       "marketCap": "$53,782,694,295",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.69",
+      "epsForecast": "$0.68",
       "noOfEsts": "4"
     },
     {
@@ -174,7 +163,7 @@
       "name": "Sun Life Financial Inc.",
       "marketCap": "$34,066,246,590",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.27",
+      "epsForecast": "$1.26",
       "noOfEsts": "4"
     },
     {
@@ -185,13 +174,24 @@
       "name": "Martin Marietta Materials, Inc.",
       "marketCap": "$32,471,412,503",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$4.63",
+      "epsForecast": "$4.61",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "RDDT",
+      "name": "Reddit, Inc.",
+      "marketCap": "$29,969,454,052",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.22",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$0.27",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "GOLD",
       "name": "Barrick Gold Corporation",
       "marketCap": "$27,763,312,579",
@@ -286,17 +286,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.20",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/14/2024",
-      "lastYearEPS": "$1.49",
-      "time": "time-not-supplied",
-      "symbol": "CF",
-      "name": "CF Industries Holdings, Inc.",
-      "marketCap": "$16,770,300,557",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.56",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -405,13 +394,13 @@
       "name": "MGM Resorts International",
       "marketCap": "$9,825,435,873",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.36",
+      "epsForecast": "$0.35",
       "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$8.24",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "LAD",
       "name": "Lithia Motors, Inc.",
       "marketCap": "$9,664,759,311",
@@ -697,7 +686,7 @@
     {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$0.99",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CXT",
       "name": "Crane NXT, Co.",
       "marketCap": "$3,675,987,249",
@@ -768,7 +757,7 @@
       "name": "Scorpio Tankers Inc.",
       "marketCap": "$2,999,526,567",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.67",
+      "epsForecast": "$1.51",
       "noOfEsts": "5"
     },
     {
@@ -972,7 +961,7 @@
     {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$3.02",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "DBD",
       "name": "Diebold Nixdorf Incorporated",
       "marketCap": "$1,616,172,920",
@@ -988,7 +977,7 @@
       "name": "Monarch Casino & Resort, Inc.",
       "marketCap": "$1,533,647,353",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.14",
+      "epsForecast": "$1.15",
       "noOfEsts": "3"
     },
     {
@@ -1016,7 +1005,7 @@
     {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "($0.26)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "FSLY",
       "name": "Fastly, Inc.",
       "marketCap": "$1,325,835,000",

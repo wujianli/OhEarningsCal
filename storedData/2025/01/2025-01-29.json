@@ -178,6 +178,17 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$11.26",
+      "time": "time-after-hours",
+      "symbol": "URI",
+      "name": "United Rentals, Inc.",
+      "marketCap": "$48,658,337,804",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$11.77",
+      "noOfEsts": "9"
+    },
+    {
       "lastYearRptDt": "1/30/2024",
       "lastYearEPS": "$3.68",
       "time": "time-pre-market",
@@ -299,6 +310,28 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "1/25/2024",
+      "lastYearEPS": "($0.91)",
+      "time": "time-after-hours",
+      "symbol": "WDC",
+      "name": "Western Digital Corporation",
+      "marketCap": "$22,343,137,317",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.67",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "1/30/2024",
+      "lastYearEPS": "$0.79",
+      "time": "time-after-hours",
+      "symbol": "TER",
+      "name": "Teradyne, Inc.",
+      "marketCap": "$21,974,897,067",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.90",
+      "noOfEsts": "7"
+    },
+    {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.11",
       "time": "time-not-supplied",
@@ -398,6 +431,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "$0.68",
+      "time": "time-after-hours",
+      "symbol": "NLY",
+      "name": "Annaly Capital Management Inc.",
+      "marketCap": "$10,499,066,812",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.67",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "1/25/2024",
       "lastYearEPS": "$2.24",
       "time": "time-pre-market",
@@ -418,6 +462,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
       "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "1/25/2024",
+      "lastYearEPS": "$3.72",
+      "time": "time-pre-market",
+      "symbol": "EXP",
+      "name": "Eagle Materials Inc",
+      "marketCap": "$8,418,053,169",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -508,6 +563,17 @@
       "noOfEsts": "7"
     },
     {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "$1.46",
+      "time": "time-after-hours",
+      "symbol": "NFG",
+      "name": "National Fuel Gas Company",
+      "marketCap": "$6,026,093,443",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.47",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$9.50",
       "time": "time-pre-market",
@@ -570,8 +636,8 @@
       "name": "Boot Barn Holdings, Inc.",
       "marketCap": "$4,640,754,061",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.29",
-      "noOfEsts": "3"
+      "epsForecast": "$2.35",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "1/31/2024",
@@ -619,17 +685,6 @@
     },
     {
       "lastYearRptDt": "1/31/2024",
-      "lastYearEPS": "$0.17",
-      "time": "time-not-supplied",
-      "symbol": "RYN",
-      "name": "Rayonier Inc.",
-      "marketCap": "$3,845,721,255",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$3.66",
       "time": "time-pre-market",
       "symbol": "MHO",
@@ -638,6 +693,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.83",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.54",
+      "time": "time-after-hours",
+      "symbol": "LBRT",
+      "name": "Liberty Energy Inc.",
+      "marketCap": "$3,704,633,578",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.10",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "1/30/2024",
@@ -658,7 +724,7 @@
       "name": "Methanex Corporation",
       "marketCap": "$3,382,178,223",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.91",
+      "epsForecast": "$0.94",
       "noOfEsts": "3"
     },
     {
@@ -772,6 +838,17 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "1/29/2024",
+      "lastYearEPS": "($0.11)",
+      "time": "time-after-hours",
+      "symbol": "TWO",
+      "name": "Two Harbors Investments Corp",
+      "marketCap": "$1,205,450,965",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.12",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.41",
       "time": "time-not-supplied",
@@ -816,6 +893,17 @@
       "noOfEsts": "7"
     },
     {
+      "lastYearRptDt": "1/26/2024",
+      "lastYearEPS": "$0.57",
+      "time": "time-pre-market",
+      "symbol": "SBSI",
+      "name": "Southside Bancshares, Inc.",
+      "marketCap": "$973,203,173",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.71",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.19",
       "time": "time-after-hours",
@@ -851,7 +939,7 @@
     {
       "lastYearRptDt": "1/31/2024",
       "lastYearEPS": "$0.55",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "CPF",
       "name": "CPB Inc.",
       "marketCap": "$764,842,798",
@@ -913,6 +1001,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.35",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "1/24/2024",
+      "lastYearEPS": "$0.76",
+      "time": "time-after-hours",
+      "symbol": "WASH",
+      "name": "Washington Trust Bancorp, Inc.",
+      "marketCap": "$550,341,573",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.58",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "1/31/2024",
