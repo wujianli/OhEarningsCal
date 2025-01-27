@@ -21,7 +21,7 @@
       "marketCap": "$140,293,504,577",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -42,8 +42,8 @@
       "name": "Brookfield Corporation",
       "marketCap": "$89,819,465,145",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.92",
-      "noOfEsts": "1"
+      "epsForecast": "$0.88",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -65,7 +65,7 @@
       "marketCap": "$81,864,164,580",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -101,6 +101,17 @@
       "noOfEsts": "9"
     },
     {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$1.04",
+      "time": "time-after-hours",
+      "symbol": "COIN",
+      "name": "Coinbase Global, Inc.",
+      "marketCap": "$74,106,234,632",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.87",
+      "noOfEsts": "6"
+    },
+    {
       "lastYearRptDt": "2/27/2024",
       "lastYearEPS": "$1.41",
       "time": "time-after-hours",
@@ -131,7 +142,7 @@
       "marketCap": "$51,909,143,202",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.24",
-      "noOfEsts": "4"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -299,6 +310,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "($0.10)",
+      "time": "time-after-hours",
+      "symbol": "DKNG",
+      "name": "DraftKings Inc.",
+      "marketCap": "$20,241,427,445",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.15)",
+      "noOfEsts": "9"
+    },
+    {
       "lastYearRptDt": "2/13/2024",
       "lastYearEPS": "$0.70",
       "time": "time-pre-market",
@@ -317,7 +339,7 @@
       "name": "Twilio Inc.",
       "marketCap": "$17,393,711,239",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.20",
+      "epsForecast": "$0.22",
       "noOfEsts": "4"
     },
     {
@@ -376,14 +398,14 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$1.71",
-      "time": "time-not-supplied",
-      "symbol": "TFII",
-      "name": "TFI International Inc.",
-      "marketCap": "$11,448,678,639",
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "($0.13)",
+      "time": "time-after-hours",
+      "symbol": "PCOR",
+      "name": "Procore Technologies, Inc.",
+      "marketCap": "$11,658,223,508",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.59",
+      "epsForecast": "($0.21)",
       "noOfEsts": "7"
     },
     {
@@ -395,7 +417,7 @@
       "marketCap": "$11,396,992,006",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -405,7 +427,7 @@
       "name": "Lincoln Electric Holdings, Inc.",
       "marketCap": "$11,207,292,991",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.02",
+      "epsForecast": "$2.01",
       "noOfEsts": "7"
     },
     {
@@ -431,6 +453,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$3.87",
+      "time": "time-after-hours",
+      "symbol": "KNSL",
+      "name": "Kinsale Capital Group, Inc.",
+      "marketCap": "$10,078,803,998",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4.34",
+      "noOfEsts": "8"
+    },
+    {
       "lastYearRptDt": "2/12/2024",
       "lastYearEPS": "$1.64",
       "time": "time-after-hours",
@@ -450,7 +483,7 @@
       "marketCap": "$8,652,336,118",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -508,6 +541,17 @@
       "noOfEsts": "5"
     },
     {
+      "lastYearRptDt": "2/14/2024",
+      "lastYearEPS": "($0.23)",
+      "time": "time-pre-market",
+      "symbol": "WFG",
+      "name": "West Fraser Timber Co. Ltd",
+      "marketCap": "$7,395,457,720",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.06",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "$1.21",
       "time": "time-pre-market",
@@ -560,7 +604,7 @@
       "marketCap": "$4,734,893,350",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.08)",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -607,28 +651,6 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.13",
-      "time": "time-not-supplied",
-      "symbol": "MWA",
-      "name": "Mueller Water Products Inc",
-      "marketCap": "$3,706,299,645",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.19",
-      "time": "time-not-supplied",
-      "symbol": "UAA",
-      "name": "Under Armour, Inc.",
-      "marketCap": "$3,683,944,013",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.03",
-      "noOfEsts": "12"
-    },
-    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "($0.41)",
       "time": "time-pre-market",
@@ -663,17 +685,6 @@
     },
     {
       "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.19",
-      "time": "time-not-supplied",
-      "symbol": "UA",
-      "name": "Under Armour, Inc.",
-      "marketCap": "$3,307,766,631",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
       "lastYearEPS": "$0.51",
       "time": "time-not-supplied",
       "symbol": "SXT",
@@ -696,17 +707,6 @@
     },
     {
       "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.99",
-      "time": "time-not-supplied",
-      "symbol": "PATK",
-      "name": "Patrick Industries, Inc.",
-      "marketCap": "$3,202,716,350",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.50",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
       "lastYearEPS": "$0.46",
       "time": "time-not-supplied",
       "symbol": "NSP",
@@ -724,8 +724,8 @@
       "name": "Warrior Met Coal, Inc.",
       "marketCap": "$2,942,523,731",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.85",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -747,7 +747,7 @@
       "marketCap": "$2,517,962,128",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.01)",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -779,19 +779,8 @@
       "name": "Peabody Energy Corporation",
       "marketCap": "$2,352,240,000",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.63",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
-      "time": "time-not-supplied",
-      "symbol": "PWP",
-      "name": "Perella Weinberg Partners",
-      "marketCap": "$2,280,789,149",
-      "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -813,7 +802,7 @@
       "marketCap": "$2,061,743,801",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -835,7 +824,7 @@
       "marketCap": "$1,906,089,045",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -868,18 +857,7 @@
       "marketCap": "$1,642,732,307",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$3.58",
-      "time": "time-not-supplied",
-      "symbol": "LEU",
-      "name": "Centrus Energy Corp.",
-      "marketCap": "$1,544,543,140",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.06",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -915,6 +893,17 @@
       "noOfEsts": "5"
     },
     {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$0.24",
+      "time": "time-after-hours",
+      "symbol": "ELME",
+      "name": "Elme Communities",
+      "marketCap": "$1,289,350,572",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.24",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.08)",
       "time": "time-pre-market",
@@ -923,7 +912,7 @@
       "marketCap": "$1,284,650,695",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/06/2024",
@@ -933,7 +922,7 @@
       "name": "Hertz Global Holdings, Inc",
       "marketCap": "$1,260,494,621",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.70)",
+      "epsForecast": "($0.72)",
       "noOfEsts": "6"
     },
     {
@@ -945,7 +934,7 @@
       "marketCap": "$1,220,578,601",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -990,17 +979,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.16",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.34",
-      "time": "time-not-supplied",
-      "symbol": "NGVC",
-      "name": "Natural Grocers by Vitamin Cottage, Inc.",
-      "marketCap": "$951,506,807",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1066,7 +1044,7 @@
       "marketCap": "$760,353,033",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1087,8 +1065,8 @@
       "name": "Innventure, Inc.",
       "marketCap": "$613,400,191",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "5"
+      "epsForecast": "($0.11)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1099,7 +1077,7 @@
       "marketCap": "$543,296,416",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1110,7 +1088,7 @@
       "marketCap": "$505,098,498",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1121,7 +1099,7 @@
       "marketCap": "$494,073,156",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1154,7 +1132,7 @@
       "marketCap": "$370,166,960",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -1176,7 +1154,7 @@
       "marketCap": "$328,407,905",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1209,7 +1187,7 @@
       "marketCap": "$275,679,371",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1220,7 +1198,7 @@
       "marketCap": "$250,014,675",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -1275,17 +1253,6 @@
       "marketCap": "$177,412,908",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.26",
-      "time": "time-not-supplied",
-      "symbol": "STRT",
-      "name": "Strattec Security Corporation",
-      "marketCap": "$161,049,882",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.28",
       "noOfEsts": "1"
     },
     {
@@ -1363,7 +1330,7 @@
       "marketCap": "$117,909,955",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.15)",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1374,7 +1341,7 @@
       "marketCap": "$112,305,494",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1385,7 +1352,7 @@
       "marketCap": "$100,034,803",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.09",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1407,7 +1374,7 @@
       "marketCap": "$98,265,428",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1418,7 +1385,7 @@
       "marketCap": "$78,879,771",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1429,7 +1396,7 @@
       "marketCap": "$71,239,087",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1454,6 +1421,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$0.95",
+      "time": "time-after-hours",
+      "symbol": "OPI",
+      "name": "Office Properties Income Trust",
+      "marketCap": "$51,235,049",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.34",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -1462,7 +1440,7 @@
       "marketCap": "$50,146,175",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1473,7 +1451,7 @@
       "marketCap": "$48,295,662",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1484,7 +1462,7 @@
       "marketCap": "$43,277,836",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1495,17 +1473,6 @@
       "marketCap": "$41,506,150",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "($0.10)",
-      "time": "time-not-supplied",
-      "symbol": "FARM",
-      "name": "Farmer Brothers Company",
-      "marketCap": "$36,581,343",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.12)",
       "noOfEsts": "1"
     },
     {
@@ -1517,7 +1484,7 @@
       "marketCap": "$33,138,063",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1539,7 +1506,7 @@
       "marketCap": "$31,143,498",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1561,7 +1528,7 @@
       "marketCap": "$27,787,348",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1572,7 +1539,7 @@
       "marketCap": "$27,433,134",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1583,7 +1550,7 @@
       "marketCap": "$26,571,564",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1594,7 +1561,7 @@
       "marketCap": "$20,040,984",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1605,7 +1572,7 @@
       "marketCap": "$19,534,858",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1616,7 +1583,7 @@
       "marketCap": "$14,101,456",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1649,7 +1616,7 @@
       "marketCap": "$3,931,517",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -1671,7 +1638,7 @@
       "marketCap": "$2,792,134",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1682,7 +1649,7 @@
       "marketCap": "$2,408,732",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1693,7 +1660,7 @@
       "marketCap": "$1,054,993",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     }
   ]
 }
