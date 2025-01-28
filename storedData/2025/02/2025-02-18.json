@@ -229,8 +229,8 @@
       "name": "Sun Communities, Inc.",
       "marketCap": "$16,226,977,305",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.40",
-      "noOfEsts": "4"
+      "epsForecast": "$1.39",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -273,7 +273,7 @@
       "name": "Fresenius Medical Care AG",
       "marketCap": "$14,453,546,497",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.40",
+      "epsForecast": "$0.41",
       "noOfEsts": "4"
     },
     {
@@ -488,7 +488,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$2.11",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "TX",
       "name": "Ternium S.A.",
       "marketCap": "$5,889,936,226",
@@ -572,6 +572,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.82",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/14/2024",
+      "lastYearEPS": "$1.02",
+      "time": "time-after-hours",
+      "symbol": "SON",
+      "name": "Sonoco Products Company",
+      "marketCap": "$4,761,660,119",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.23",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -717,17 +728,6 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "2/20/2024",
-      "lastYearEPS": "$0.45",
-      "time": "time-not-supplied",
-      "symbol": "CWK",
-      "name": "Cushman & Wakefield plc",
-      "marketCap": "$3,100,368,343",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.48",
-      "noOfEsts": "5"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.51)",
       "time": "time-after-hours",
@@ -757,7 +757,7 @@
       "name": "Visteon Corporation",
       "marketCap": "$2,365,281,568",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.79",
+      "epsForecast": "$1.77",
       "noOfEsts": "3"
     },
     {
@@ -869,6 +869,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.67)",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "$0.10",
+      "time": "time-pre-market",
+      "symbol": "HLMN",
+      "name": "Hillman Solutions Corp.",
+      "marketCap": "$2,020,955,613",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.11",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1131,7 +1142,7 @@
       "name": "SolarEdge Technologies, Inc.",
       "marketCap": "$850,707,967",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($2.28)",
+      "epsForecast": "($2.30)",
       "noOfEsts": "10"
     },
     {
@@ -1285,7 +1296,7 @@
       "name": "Community Health Systems, Inc.",
       "marketCap": "$472,423,397",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.04",
+      "epsForecast": "$0.05",
       "noOfEsts": "5"
     },
     {

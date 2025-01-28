@@ -3,17 +3,6 @@
   "data": [
     {
       "lastYearRptDt": "2/16/2024",
-      "lastYearEPS": "$0.99",
-      "time": "time-not-supplied",
-      "symbol": "TRP",
-      "name": "TC Energy Corporation",
-      "marketCap": "$49,309,350,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.67",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/16/2024",
       "lastYearEPS": "$0.34",
       "time": "time-not-supplied",
       "symbol": "NWG",
@@ -297,17 +286,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/16/2024",
-      "lastYearEPS": "$0.41",
-      "time": "time-not-supplied",
-      "symbol": "B",
-      "name": "Barnes Group, Inc.",
-      "marketCap": "",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.47",
-      "noOfEsts": "3"
     }
   ]
 }

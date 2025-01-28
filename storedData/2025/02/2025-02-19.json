@@ -337,21 +337,10 @@
       "time": "time-not-supplied",
       "symbol": "EXAS",
       "name": "Exact Sciences Corporation",
-      "marketCap": "$10,360,570,882",
+      "marketCap": "$10,305,047,994",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.31)",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "$0.63",
-      "time": "time-not-supplied",
-      "symbol": "RRC",
-      "name": "Range Resources Corporation",
-      "marketCap": "$9,693,408,519",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.50",
-      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -691,7 +680,7 @@
       "name": "Goosehead Insurance, Inc.",
       "marketCap": "$3,743,154,266",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
+      "epsForecast": "$0.17",
       "noOfEsts": "5"
     },
     {
@@ -761,6 +750,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "2/23/2024",
+      "lastYearEPS": "$0.20",
+      "time": "time-pre-market",
+      "symbol": "HBM",
+      "name": "Hudbay Minerals Inc.",
+      "marketCap": "$3,383,891,436",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.23",
+      "noOfEsts": "14"
+    },
+    {
       "lastYearRptDt": "2/21/2024",
       "lastYearEPS": "$0.09",
       "time": "time-not-supplied",
@@ -790,7 +790,7 @@
       "name": "OUTFRONT Media Inc.",
       "marketCap": "$3,103,936,143",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.60",
+      "epsForecast": "$0.59",
       "noOfEsts": "5"
     },
     {
@@ -1025,6 +1025,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.53",
+      "time": "time-not-supplied",
+      "symbol": "UFPT",
+      "name": "UFP Technologies, Inc.",
+      "marketCap": "$2,167,393,598",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "($0.05)",
       "time": "time-after-hours",
@@ -1045,17 +1056,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.63)",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.53",
-      "time": "time-not-supplied",
-      "symbol": "UFPT",
-      "name": "UFP Technologies, Inc.",
-      "marketCap": "$2,061,180,414",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1109,8 +1109,8 @@
       "name": "Century Aluminum Company",
       "marketCap": "$1,822,569,296",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "$0.30",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1429,7 +1429,7 @@
       "marketCap": "$784,983,329",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.27",
-      "noOfEsts": "4"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1444,17 +1444,6 @@
     },
     {
       "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "$0.09",
-      "time": "time-not-supplied",
-      "symbol": "GSM",
-      "name": "Ferroglobe PLC",
-      "marketCap": "$751,540,372",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.01)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/21/2024",
       "lastYearEPS": "($0.86)",
       "time": "time-not-supplied",
       "symbol": "BALY",
@@ -1462,6 +1451,17 @@
       "marketCap": "$737,289,881",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($1.12)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "$0.09",
+      "time": "time-not-supplied",
+      "symbol": "GSM",
+      "name": "Ferroglobe PLC",
+      "marketCap": "$730,873,011",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.01)",
       "noOfEsts": "2"
     },
     {
@@ -1712,7 +1712,7 @@
       "time": "time-not-supplied",
       "symbol": "ESEA",
       "name": "Euroseas Ltd.",
-      "marketCap": "$221,723,002",
+      "marketCap": "$220,109,706",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.66",
       "noOfEsts": "1"
@@ -1762,17 +1762,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "2/21/2024",
-      "lastYearEPS": "($0.08)",
-      "time": "time-not-supplied",
-      "symbol": "THTX",
-      "name": "Theratechnologies Inc.",
-      "marketCap": "$78,855,732",
-      "fiscalQuarterEnding": "Nov/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -1782,6 +1771,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.01)",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "($0.08)",
+      "time": "time-not-supplied",
+      "symbol": "THTX",
+      "name": "Theratechnologies Inc.",
+      "marketCap": "$74,947,430",
+      "fiscalQuarterEnding": "Nov/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1800,18 +1800,7 @@
       "time": "time-not-supplied",
       "symbol": "YHGJ",
       "name": "Yunhong Green CTI Ltd.",
-      "marketCap": "$15,379,671",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "ASTI",
-      "name": "Ascent Solar Technologies, Inc",
-      "marketCap": "$3,590,218",
+      "marketCap": "$19,417,158",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -1831,9 +1820,20 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
+      "symbol": "ASTI",
+      "name": "Ascent Solar Technologies, Inc",
+      "marketCap": "$3,073,545",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
       "symbol": "BBLG",
       "name": "Bone Biologics Corp",
-      "marketCap": "$2,611,346",
+      "marketCap": "$2,431,754",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.65)",
       "noOfEsts": "1"
