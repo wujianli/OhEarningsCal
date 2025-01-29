@@ -86,7 +86,7 @@
       "name": "Dominion Energy, Inc.",
       "marketCap": "$46,813,736,456",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.59",
+      "epsForecast": "$0.57",
       "noOfEsts": "4"
     },
     {
@@ -108,7 +108,7 @@
       "name": "Exelon Corporation",
       "marketCap": "$40,896,729,758",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.60",
+      "epsForecast": "$0.59",
       "noOfEsts": "5"
     },
     {
@@ -207,7 +207,7 @@
       "name": "Global Payments Inc.",
       "marketCap": "$28,198,027,718",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.82",
+      "epsForecast": "$2.83",
       "noOfEsts": "12"
     },
     {
@@ -284,8 +284,8 @@
       "name": "Biogen Inc.",
       "marketCap": "$21,677,209,018",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.43",
-      "noOfEsts": "22"
+      "epsForecast": "$3.46",
+      "noOfEsts": "25"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -328,8 +328,8 @@
       "name": "Genmab A/S",
       "marketCap": "$13,743,503,280",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.37",
-      "noOfEsts": "7"
+      "epsForecast": "$0.36",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -416,8 +416,8 @@
       "name": "Albemarle Corporation",
       "marketCap": "$10,435,231,296",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.37)",
-      "noOfEsts": "10"
+      "epsForecast": "($0.41)",
+      "noOfEsts": "11"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -427,7 +427,7 @@
       "name": "MGM Resorts International",
       "marketCap": "$9,992,170,542",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.35",
+      "epsForecast": "$0.32",
       "noOfEsts": "8"
     },
     {
@@ -867,8 +867,8 @@
       "name": "Scorpio Tankers Inc.",
       "marketCap": "$2,479,601,547",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.14",
-      "noOfEsts": "5"
+      "epsForecast": "$0.71",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -1000,7 +1000,7 @@
       "marketCap": "$1,599,777,849",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.05",
-      "noOfEsts": "3"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -1100,6 +1100,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.17",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$0.16",
+      "time": "time-after-hours",
+      "symbol": "CRSR",
+      "name": "Corsair Gaming, Inc.",
+      "marketCap": "$918,222,227",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.08",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/12/2024",
@@ -1740,6 +1751,17 @@
       "noOfEsts": "N/A"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "GIFT",
+      "name": "Giftify, Inc.",
+      "marketCap": "$24,308,428",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "($1.50)",
       "time": "time-not-supplied",
@@ -1949,15 +1971,15 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
+      "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "($0.08)",
       "time": "time-not-supplied",
       "symbol": "TRUG",
       "name": "TruGolf Holdings, Inc.",
       "marketCap": "$6,222,171",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "4"
+      "epsForecast": "($0.02)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2066,7 +2088,7 @@
       "name": "Sound Point Meridian Capital, Inc.",
       "marketCap": "",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.46",
+      "epsForecast": "$0.50",
       "noOfEsts": "4"
     }
   ]

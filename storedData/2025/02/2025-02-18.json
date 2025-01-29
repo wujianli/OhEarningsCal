@@ -252,7 +252,7 @@
       "marketCap": "$15,131,940,788",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.01",
-      "noOfEsts": "7"
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "2/12/2024",
@@ -389,7 +389,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.68",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "FLS",
       "name": "Flowserve Corporation",
       "marketCap": "$7,862,882,268",
@@ -436,7 +436,7 @@
       "time": "time-not-supplied",
       "symbol": "WSC",
       "name": "WillScot Holdings Corporation",
-      "marketCap": "$7,052,271,145",
+      "marketCap": "$6,823,169,332",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.47",
       "noOfEsts": "5"
@@ -472,7 +472,7 @@
       "marketCap": "$6,184,833,646",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.35",
-      "noOfEsts": "3"
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -559,7 +559,7 @@
       "name": "Sonoco Products Company",
       "marketCap": "$4,800,963,958",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.23",
+      "epsForecast": "$1.16",
       "noOfEsts": "2"
     },
     {
@@ -592,7 +592,7 @@
       "name": "Matson, Inc.",
       "marketCap": "$4,598,606,978",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.18",
+      "epsForecast": "$3.20",
       "noOfEsts": "1"
     },
     {
@@ -757,8 +757,8 @@
       "name": "Visteon Corporation",
       "marketCap": "$2,402,567,067",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.77",
-      "noOfEsts": "3"
+      "epsForecast": "$1.84",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -790,7 +790,7 @@
       "name": "Dana Incorporated",
       "marketCap": "$2,266,023,755",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.09",
+      "epsForecast": "$0.10",
       "noOfEsts": "2"
     },
     {
@@ -878,7 +878,7 @@
       "name": "Enovix Corporation",
       "marketCap": "$1,982,666,052",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.27)",
+      "epsForecast": "($0.26)",
       "noOfEsts": "5"
     },
     {
@@ -1005,7 +1005,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.35",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SPNS",
       "name": "Sapiens International Corporation N.V.",
       "marketCap": "$1,468,013,383",
@@ -1071,7 +1071,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$1.22",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CSR",
       "name": "D/B/A Centerspace",
       "marketCap": "$1,033,594,080",
