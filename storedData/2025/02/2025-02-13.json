@@ -31,7 +31,7 @@
       "name": "Sony Group Corporation",
       "marketCap": "$132,277,798,198",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.26",
+      "epsForecast": "$0.29",
       "noOfEsts": "3"
     },
     {
@@ -64,8 +64,8 @@
       "name": "Duke Energy Corporation",
       "marketCap": "$85,985,016,500",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.60",
-      "noOfEsts": "5"
+      "epsForecast": "$1.61",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/08/2024",
@@ -163,8 +163,8 @@
       "name": "PG&E Corp",
       "marketCap": "$45,959,425,517",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.30",
-      "noOfEsts": "3"
+      "epsForecast": "$0.31",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -285,7 +285,7 @@
       "marketCap": "$23,162,180,390",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.70",
-      "noOfEsts": "5"
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -570,8 +570,19 @@
       "name": "Nova Ltd.",
       "marketCap": "$6,646,779,918",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.58",
+      "epsForecast": "$1.51",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$2.58",
+      "time": "time-pre-market",
+      "symbol": "CROX",
+      "name": "Crocs, Inc.",
+      "marketCap": "$6,035,700,075",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$2.28",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -594,6 +605,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.78",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/13/2024",
+      "lastYearEPS": "$3.24",
+      "time": "time-pre-market",
+      "symbol": "HRI",
+      "name": "Herc Holdings Inc.",
+      "marketCap": "$5,645,128,812",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4.18",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -647,7 +669,7 @@
       "name": "Organon & Co.",
       "marketCap": "$4,136,074,332",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.82",
+      "epsForecast": "$0.83",
       "noOfEsts": "3"
     },
     {
@@ -671,6 +693,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.48",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "$0.82",
+      "time": "time-pre-market",
+      "symbol": "GVA",
+      "name": "Granite Construction Incorporated",
+      "marketCap": "$3,738,297,361",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.42",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -772,17 +805,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.12",
-      "time": "time-not-supplied",
-      "symbol": "SWI",
-      "name": "SolarWinds Corporation",
-      "marketCap": "$2,551,753,245",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.19",
-      "noOfEsts": "4"
-    },
-    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "$0.17",
       "time": "time-pre-market",
@@ -879,6 +901,17 @@
       "marketCap": "$1,665,120,206",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$0.22",
+      "time": "time-pre-market",
+      "symbol": "DNOW",
+      "name": "DNOW Inc.",
+      "marketCap": "$1,567,581,555",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.11",
       "noOfEsts": "1"
     },
     {
@@ -1168,17 +1201,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "$0.09",
-      "time": "time-not-supplied",
-      "symbol": "FORR",
-      "name": "Forrester Research, Inc.",
-      "marketCap": "$295,767,720",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.21",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -1230,8 +1252,8 @@
       "name": "AMMO, Inc.",
       "marketCap": "$182,885,368",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "$0.03",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1429,17 +1451,6 @@
       "marketCap": "$50,105,993",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/08/2024",
-      "lastYearEPS": "($0.07)",
-      "time": "time-not-supplied",
-      "symbol": "PXLW",
-      "name": "Pixelworks, Inc.",
-      "marketCap": "$50,097,646",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.11)",
       "noOfEsts": "1"
     },
     {

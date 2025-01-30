@@ -153,7 +153,7 @@
       "marketCap": "$23,595,583,204",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.47",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/27/2024",
@@ -185,8 +185,8 @@
       "name": "Viking Holdings Ltd",
       "marketCap": "$21,167,183,477",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.35",
-      "noOfEsts": "10"
+      "epsForecast": "$0.36",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -197,7 +197,7 @@
       "marketCap": "$21,166,847,517",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -220,6 +220,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.53",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/15/2024",
+      "lastYearEPS": "$2.26",
+      "time": "time-pre-market",
+      "symbol": "GPC",
+      "name": "Genuine Parts Company",
+      "marketCap": "$16,310,370,289",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$1.54",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -361,7 +372,7 @@
       "name": "BanColombia S.A.",
       "marketCap": "$9,298,462,522",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.44",
+      "epsForecast": "$1.43",
       "noOfEsts": "3"
     },
     {
@@ -431,6 +442,17 @@
       "noOfEsts": "3"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "WAY",
+      "name": "Waystar Holding Corp.",
+      "marketCap": "$7,005,626,311",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.13",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.44",
       "time": "time-not-supplied",
@@ -442,15 +464,15 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "2/20/2024",
-      "lastYearEPS": "$1.22",
-      "time": "time-not-supplied",
-      "symbol": "AWI",
-      "name": "Armstrong World Industries Inc",
-      "marketCap": "$6,523,405,821",
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "$3.18",
+      "time": "time-pre-market",
+      "symbol": "VMI",
+      "name": "Valmont Industries, Inc.",
+      "marketCap": "$6,566,215,078",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.37",
-      "noOfEsts": "4"
+      "epsForecast": "$3.66",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -466,7 +488,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.32",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ESI",
       "name": "Element Solutions Inc.",
       "marketCap": "$6,153,352,504",
@@ -482,7 +504,7 @@
       "name": "Ternium S.A.",
       "marketCap": "$5,839,817,640",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.55",
+      "epsForecast": "$0.38",
       "noOfEsts": "2"
     },
     {
@@ -527,7 +549,7 @@
       "marketCap": "$4,981,628,870",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -570,7 +592,7 @@
       "name": "Sonoco Products Company",
       "marketCap": "$4,741,025,603",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.16",
+      "epsForecast": "$1.18",
       "noOfEsts": "2"
     },
     {
@@ -604,7 +626,7 @@
       "marketCap": "$4,502,926,323",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -615,7 +637,7 @@
       "marketCap": "$4,340,589,926",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -637,7 +659,7 @@
       "marketCap": "$4,201,147,581",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -681,7 +703,7 @@
       "marketCap": "$3,790,611,738",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -736,7 +758,7 @@
       "marketCap": "$3,100,255,347",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -758,7 +780,7 @@
       "marketCap": "$2,398,866,968",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -802,7 +824,7 @@
       "marketCap": "$2,220,497,061",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -818,7 +840,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "($0.59)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "WGS",
       "name": "GeneDx Holdings Corp.",
       "marketCap": "$2,176,833,498",
@@ -884,7 +906,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "($0.02)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "NEO",
       "name": "NeoGenomics, Inc.",
       "marketCap": "$1,948,518,021",
@@ -994,24 +1016,13 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.35",
-      "time": "time-after-hours",
+      "time": "time-pre-market",
       "symbol": "SPNS",
       "name": "Sapiens International Corporation N.V.",
       "marketCap": "$1,483,061,356",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.35",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/20/2024",
-      "lastYearEPS": "$0.33",
-      "time": "time-not-supplied",
-      "symbol": "SCL",
-      "name": "Stepan Company",
-      "marketCap": "$1,447,760,694",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.34",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1044,7 +1055,7 @@
       "marketCap": "$1,288,285,824",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1110,7 +1121,7 @@
       "marketCap": "$904,444,604",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1121,7 +1132,18 @@
       "marketCap": "$869,035,554",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/27/2024",
+      "lastYearEPS": "($0.19)",
+      "time": "time-after-hours",
+      "symbol": "BMBL",
+      "name": "Bumble Inc.",
+      "marketCap": "$867,622,727",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.19",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1220,7 +1242,7 @@
       "marketCap": "$688,308,316",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1242,7 +1264,7 @@
       "marketCap": "$635,691,162",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.11",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -1264,7 +1286,7 @@
       "marketCap": "$535,800,129",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1324,7 +1346,7 @@
     {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "$0.23",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "QUAD",
       "name": "Quad Graphics, Inc",
       "marketCap": "$370,565,428",
@@ -1418,7 +1440,7 @@
       "marketCap": "$177,121,923",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1440,7 +1462,7 @@
       "marketCap": "$112,770,152",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1451,7 +1473,7 @@
       "marketCap": "$76,771,198",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1462,7 +1484,7 @@
       "marketCap": "$45,838,016",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1473,7 +1495,7 @@
       "marketCap": "$20,531,283",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1484,7 +1506,7 @@
       "marketCap": "$16,132,296",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1495,7 +1517,7 @@
       "marketCap": "$10,942,179",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1506,7 +1528,7 @@
       "marketCap": "$8,930,676",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1517,7 +1539,7 @@
       "marketCap": "$5,018,964",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1528,7 +1550,7 @@
       "marketCap": "$4,758,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1539,7 +1561,7 @@
       "marketCap": "$439,249",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "10"
+      "noOfEsts": "2"
     }
   ]
 }
