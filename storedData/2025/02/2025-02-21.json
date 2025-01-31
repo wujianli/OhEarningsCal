@@ -14,28 +14,6 @@
     },
     {
       "lastYearRptDt": "2/16/2024",
-      "lastYearEPS": "$1.39",
-      "time": "time-not-supplied",
-      "symbol": "LBRDK",
-      "name": "Liberty Broadband Corporation",
-      "marketCap": "$11,394,992,458",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.67",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/16/2024",
-      "lastYearEPS": "$1.39",
-      "time": "time-not-supplied",
-      "symbol": "LBRDA",
-      "name": "Liberty Broadband Corporation",
-      "marketCap": "$11,316,426,006",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "2/16/2024",
       "lastYearEPS": "$1.24",
       "time": "time-not-supplied",
       "symbol": "DTM",
@@ -196,7 +174,7 @@
       "name": "American Axle & Manufacturing Holdings, Inc.",
       "marketCap": "$616,124,586",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.11)",
+      "epsForecast": "($0.10)",
       "noOfEsts": "5"
     },
     {
