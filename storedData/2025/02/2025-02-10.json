@@ -46,6 +46,17 @@
       "noOfEsts": "8"
     },
     {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "$2.66",
+      "time": "time-pre-market",
+      "symbol": "IX",
+      "name": "Orix Corp Ads",
+      "marketCap": "$25,951,568,134",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "lastYearRptDt": "2/05/2024",
       "lastYearEPS": "$1.25",
       "time": "time-pre-market",
@@ -361,8 +372,8 @@
       "name": "The Goodyear Tire & Rubber Company",
       "marketCap": "$2,473,102,761",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.40",
-      "noOfEsts": "3"
+      "epsForecast": "$0.39",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/07/2024",
@@ -472,17 +483,6 @@
       "marketCap": "$1,264,297,919",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.18",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.73",
-      "time": "time-not-supplied",
-      "symbol": "IRS",
-      "name": "IRSA Inversiones Y Representaciones S.A.",
-      "marketCap": "$1,091,045,154",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
       "noOfEsts": "2"
     },
     {
@@ -605,6 +605,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.14)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "2/08/2024",
+      "lastYearEPS": "$0.77",
+      "time": "time-after-hours",
+      "symbol": "RICK",
+      "name": "RCI Hospitality Holdings, Inc.",
+      "marketCap": "$473,569,000",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.52",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "4/15/2024",
@@ -818,7 +829,7 @@
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.38",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ARKR",
       "name": "Ark Restaurants Corp.",
       "marketCap": "$46,854,041",

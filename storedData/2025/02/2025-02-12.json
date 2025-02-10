@@ -207,7 +207,7 @@
       "name": "Martin Marietta Materials, Inc.",
       "marketCap": "$33,336,233,010",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$4.58",
+      "epsForecast": "$4.60",
       "noOfEsts": "8"
     },
     {
@@ -229,7 +229,7 @@
       "name": "Smurfit WestRock plc",
       "marketCap": "$28,551,572,158",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.67",
+      "epsForecast": "$0.68",
       "noOfEsts": "4"
     },
     {
@@ -306,8 +306,8 @@
       "name": "Biogen Inc.",
       "marketCap": "$20,746,062,435",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.45",
-      "noOfEsts": "25"
+      "epsForecast": "$3.42",
+      "noOfEsts": "24"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -504,8 +504,8 @@
       "name": "Albemarle Corporation",
       "marketCap": "$9,285,686,781",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.41)",
-      "noOfEsts": "11"
+      "epsForecast": "($0.49)",
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -548,8 +548,8 @@
       "name": "Generac Holdings Inc.",
       "marketCap": "$8,490,853,831",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$2.47",
-      "noOfEsts": "11"
+      "epsForecast": "$2.50",
+      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -592,8 +592,8 @@
       "name": "Ascendis Pharma A/S",
       "marketCap": "$7,077,930,412",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($1.32)",
-      "noOfEsts": "8"
+      "epsForecast": "($1.20)",
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/14/2024",
@@ -736,7 +736,7 @@
       "marketCap": "$5,563,279,156",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.44",
-      "noOfEsts": "6"
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -1003,6 +1003,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CTRI",
+      "name": "Centuri Holdings, Inc.",
+      "marketCap": "$2,004,036,675",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.17",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "($0.21)",
       "time": "time-after-hours",
@@ -1010,8 +1021,8 @@
       "name": "AtriCure, Inc.",
       "marketCap": "$1,996,933,160",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.20)",
-      "noOfEsts": "4"
+      "epsForecast": "($0.13)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1135,6 +1146,28 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$2.16",
+      "time": "time-not-supplied",
+      "symbol": "UVV",
+      "name": "Universal Corporation",
+      "marketCap": "$1,301,060,839",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "$0.11",
+      "time": "time-not-supplied",
+      "symbol": "TTGT",
+      "name": "TechTarget, Inc.",
+      "marketCap": "$1,294,750,321",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "lastYearRptDt": "2/14/2024",
       "lastYearEPS": "$0.39",
       "time": "time-pre-market",
@@ -1256,6 +1289,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "LENZ",
+      "name": "LENZ Therapeutics, Inc.",
+      "marketCap": "$733,998,807",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.41)",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "$0.35",
       "time": "time-pre-market",
@@ -1330,6 +1374,17 @@
       "marketCap": "$496,397,664",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.24",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NLOP",
+      "name": "Net Lease Office Properties",
+      "marketCap": "$471,789,796",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
       "noOfEsts": "4"
     },
     {
@@ -1465,6 +1520,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CTNM",
+      "name": "Contineum Therapeutics, Inc.",
+      "marketCap": "$244,115,699",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.44)",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/07/2024",
       "lastYearEPS": "($2.35)",
       "time": "time-after-hours",
@@ -1554,6 +1620,28 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.65",
+      "time": "time-not-supplied",
+      "symbol": "CFBK",
+      "name": "CF Bankshares Inc.",
+      "marketCap": "$156,535,198",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "$0.07",
+      "time": "time-not-supplied",
+      "symbol": "MHH",
+      "name": "Mastech Digital, Inc",
+      "marketCap": "$156,040,620",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.15",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.47",
       "time": "time-after-hours",
       "symbol": "WHG",
@@ -1573,17 +1661,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.03",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "FRD",
-      "name": "Friedman Industries Inc.",
-      "marketCap": "$118,291,339",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1608,6 +1685,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "2/07/2024",
+      "lastYearEPS": "($1.58)",
+      "time": "time-not-supplied",
+      "symbol": "ENTA",
+      "name": "Enanta Pharmaceuticals, Inc.",
+      "marketCap": "$105,123,856",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($1.16)",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.19)",
       "time": "time-not-supplied",
@@ -1627,17 +1715,6 @@
       "marketCap": "$96,484,791",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.88)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.22)",
-      "time": "time-not-supplied",
-      "symbol": "CNVS",
-      "name": "Cineverse Corp.",
-      "marketCap": "$66,349,637",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
       "noOfEsts": "4"
     },
     {
@@ -1763,22 +1840,22 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.13)",
-      "time": "time-not-supplied",
-      "symbol": "POCI",
-      "name": "Precision Optics Corporation, Inc.",
-      "marketCap": "$32,131,860",
+      "lastYearEPS": "$0.09",
+      "time": "time-after-hours",
+      "symbol": "GROW",
+      "name": "U.S. Global Investors, Inc.",
+      "marketCap": "$33,138,063",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
+      "lastYearEPS": "($0.13)",
       "time": "time-not-supplied",
-      "symbol": "VRAR",
-      "name": "The Glimpse Group, Inc.",
-      "marketCap": "$30,896,168",
+      "symbol": "POCI",
+      "name": "Precision Optics Corporation, Inc.",
+      "marketCap": "$32,131,860",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "4"
@@ -1856,17 +1933,6 @@
       "symbol": "SIF",
       "name": "SIFCO Industries, Inc.",
       "marketCap": "$22,829,188",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($2.47)",
-      "time": "time-not-supplied",
-      "symbol": "SANW",
-      "name": "S&W Seed Company",
-      "marketCap": "$20,598,609",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "4"
@@ -1977,17 +2043,6 @@
       "symbol": "ZONE",
       "name": "CleanCore Solutions Inc.",
       "marketCap": "$9,686,994",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.36)",
-      "time": "time-not-supplied",
-      "symbol": "AMST",
-      "name": "Amesite Inc.",
-      "marketCap": "$9,382,598",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "4"

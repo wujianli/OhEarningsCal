@@ -9,7 +9,7 @@
       "name": "ONEOK, Inc.",
       "marketCap": "$55,976,529,181",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.44",
+      "epsForecast": "$1.45",
       "noOfEsts": "4"
     },
     {
@@ -87,7 +87,7 @@
       "marketCap": "$25,934,848,178",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/26/2024",
@@ -97,7 +97,7 @@
       "name": "BeiGene, Ltd.",
       "marketCap": "$24,401,667,381",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.95)",
+      "epsForecast": "($0.85)",
       "noOfEsts": "5"
     },
     {
@@ -141,8 +141,8 @@
       "name": "Joint Stock Company Kaspi.kz",
       "marketCap": "$18,554,679,570",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$3.35",
-      "noOfEsts": "3"
+      "epsForecast": "$3.42",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -153,17 +153,6 @@
       "marketCap": "$18,099,554,590",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.13",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "2/26/2024",
-      "lastYearEPS": "$0.02",
-      "time": "time-not-supplied",
-      "symbol": "CAVA",
-      "name": "CAVA Group, Inc.",
-      "marketCap": "$16,264,590,402",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.06",
       "noOfEsts": "7"
     },
     {
@@ -351,18 +340,7 @@
       "marketCap": "$4,224,192,827",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "2/26/2024",
-      "lastYearEPS": "($0.14)",
-      "time": "time-not-supplied",
-      "symbol": "CARG",
-      "name": "CarGurus, Inc.",
-      "marketCap": "$4,047,724,567",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.38",
-      "noOfEsts": "5"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/26/2024",
@@ -405,8 +383,8 @@
       "name": "Surgery Partners, Inc.",
       "marketCap": "$3,260,461,634",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.40",
-      "noOfEsts": "3"
+      "epsForecast": "$0.38",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/19/2024",
@@ -439,7 +417,7 @@
       "marketCap": "$3,031,664,319",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.02",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -560,7 +538,7 @@
       "marketCap": "$1,497,703,737",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/26/2024",
@@ -706,17 +684,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "2/26/2024",
-      "lastYearEPS": "($1.13)",
-      "time": "time-not-supplied",
-      "symbol": "ADTN",
-      "name": "ADTRAN Holdings, Inc.",
-      "marketCap": "$906,607,896",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "2"
-    },
-    {
       "lastYearRptDt": "2/20/2024",
       "lastYearEPS": "($0.05)",
       "time": "time-after-hours",
@@ -829,7 +796,7 @@
     {
       "lastYearRptDt": "2/26/2024",
       "lastYearEPS": "($0.03)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "API",
       "name": "Agora, Inc.",
       "marketCap": "$566,121,360",
@@ -946,6 +913,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.44)",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "$0.26",
+      "time": "time-after-hours",
+      "symbol": "BOOM",
+      "name": "DMC Global Inc.",
+      "marketCap": "$158,409,543",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.23)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/05/2024",
