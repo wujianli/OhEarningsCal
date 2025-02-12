@@ -35,17 +35,6 @@
       "noOfEsts": "11"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "RELX",
-      "name": "RELX PLC",
-      "marketCap": "$93,966,887,336",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "2/15/2024",
       "lastYearEPS": "$0.64",
       "time": "time-pre-market",
@@ -384,7 +373,7 @@
       "marketCap": "$12,286,151,443",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -428,7 +417,7 @@
       "marketCap": "$10,940,438,376",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.38",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -495,6 +484,28 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.36",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "2/23/2024",
+      "lastYearEPS": "$0.07",
+      "time": "time-after-hours",
+      "symbol": "FYBR",
+      "name": "Frontier Communications Parent, Inc.",
+      "marketCap": "$8,917,227,150",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.19)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "2/21/2024",
+      "lastYearEPS": "$0.33",
+      "time": "time-pre-market",
+      "symbol": "RGEN",
+      "name": "Repligen Corporation",
+      "marketCap": "$8,620,271,908",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.41",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "2/13/2024",
@@ -703,7 +714,7 @@
       "marketCap": "$5,323,537,332",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.16",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -801,8 +812,8 @@
       "name": "Iamgold Corporation",
       "marketCap": "$3,678,435,000",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.15",
-      "noOfEsts": "3"
+      "epsForecast": "$0.14",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -967,7 +978,7 @@
       "marketCap": "$2,514,108,676",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.27",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -989,7 +1000,7 @@
       "marketCap": "$2,354,168,106",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/20/2024",
@@ -1012,17 +1023,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.73",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "2/15/2024",
-      "lastYearEPS": "$1.41",
-      "time": "time-not-supplied",
-      "symbol": "MTRN",
-      "name": "Materion Corporation",
-      "marketCap": "$2,090,691,661",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$1.42",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1175,8 +1175,8 @@
       "name": "Centerra Gold Inc.",
       "marketCap": "$1,474,175,809",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.22",
-      "noOfEsts": "3"
+      "epsForecast": "$0.20",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1198,7 +1198,7 @@
       "marketCap": "$1,342,213,665",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1243,17 +1243,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.22",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/15/2024",
-      "lastYearEPS": "$0.11",
-      "time": "time-not-supplied",
-      "symbol": "AORT",
-      "name": "Artivion, Inc.",
-      "marketCap": "$1,279,395,225",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.12",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "2/21/2024",
@@ -1331,17 +1320,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.28",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/15/2024",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "COHU",
-      "name": "Cohu, Inc.",
-      "marketCap": "$1,014,781,032",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.18)",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1429,7 +1407,7 @@
       "marketCap": "$688,407,520",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "3/12/2024",
@@ -1454,6 +1432,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "2/22/2024",
+      "lastYearEPS": "$0.52",
+      "time": "time-after-hours",
+      "symbol": "CTO",
+      "name": "CTO Realty Growth, Inc.",
+      "marketCap": "$599,822,821",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.45",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$9.16",
       "time": "time-not-supplied",
@@ -1462,7 +1451,7 @@
       "marketCap": "$550,094,346",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -1550,7 +1539,7 @@
       "marketCap": "$471,149,813",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -1693,7 +1682,7 @@
       "marketCap": "$250,541,638",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/22/2024",
@@ -1748,7 +1737,7 @@
       "marketCap": "$130,022,592",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1803,7 +1792,7 @@
       "marketCap": "$63,751,426",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1825,7 +1814,7 @@
       "marketCap": "$45,677,232",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "2/15/2024",
@@ -1846,7 +1835,7 @@
       "name": "EuroDry Ltd.",
       "marketCap": "$30,675,076",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.31",
+      "epsForecast": "($0.07)",
       "noOfEsts": "1"
     },
     {
@@ -1858,7 +1847,7 @@
       "marketCap": "$8,024,383",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1869,7 +1858,7 @@
       "marketCap": "",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.82)",
-      "noOfEsts": "3"
+      "noOfEsts": "9"
     }
   ]
 }
