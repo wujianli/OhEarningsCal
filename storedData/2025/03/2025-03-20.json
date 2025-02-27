@@ -728,6 +728,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "3/06/2024",
+      "lastYearEPS": "$20.07",
+      "time": "time-pre-market",
+      "symbol": "NEUE",
+      "name": "NeueHealth, Inc.",
+      "marketCap": "$60,396,104",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($2.29)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "3/21/2024",
       "lastYearEPS": "($0.43)",
       "time": "time-not-supplied",
@@ -802,17 +813,6 @@
       "marketCap": "$44,077,800",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.20)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "3/21/2024",
-      "lastYearEPS": "($2.33)",
-      "time": "time-not-supplied",
-      "symbol": "XOS",
-      "name": "Xos, Inc.",
-      "marketCap": "$38,701,438",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($1.13)",
       "noOfEsts": "1"
     },
     {
@@ -977,8 +977,8 @@
       "name": "Turnstone Biologics Corp.",
       "marketCap": "$8,835,069",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.80)",
-      "noOfEsts": "3"
+      "epsForecast": "($0.76)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "3/21/2024",
@@ -1009,17 +1009,6 @@
       "symbol": "DRMA",
       "name": "Dermata Therapeutics, Inc.",
       "marketCap": "$2,285,660",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.80)",
-      "time": "time-not-supplied",
-      "symbol": "SHPH",
-      "name": "Shuttle Pharmaceuticals Holdings, Inc.",
-      "marketCap": "$2,212,145",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
