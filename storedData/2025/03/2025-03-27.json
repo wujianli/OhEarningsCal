@@ -58,17 +58,6 @@
     },
     {
       "lastYearRptDt": "3/28/2024",
-      "lastYearEPS": "($0.20)",
-      "time": "time-not-supplied",
-      "symbol": "SMTC",
-      "name": "Semtech Corporation",
-      "marketCap": "$2,653,441,177",
-      "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "$0.12",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "3/28/2024",
       "lastYearEPS": "($0.38)",
       "time": "time-not-supplied",
       "symbol": "CNTA",
@@ -824,6 +813,17 @@
       "marketCap": "$33,165,568",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.25)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "3/27/2024",
+      "lastYearEPS": "($0.22)",
+      "time": "time-after-hours",
+      "symbol": "MDAI",
+      "name": "Spectral AI, Inc.",
+      "marketCap": "$32,157,366",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.10)",
       "noOfEsts": "3"
     },
     {
