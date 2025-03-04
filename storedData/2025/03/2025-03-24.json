@@ -2,6 +2,17 @@
   "date": "2025-03-24",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "OKLO",
+      "name": "Oklo Inc.",
+      "marketCap": "$4,076,794,455",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.08)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "3/25/2024",
       "lastYearEPS": "($0.11)",
       "time": "time-not-supplied",
@@ -164,17 +175,6 @@
       "marketCap": "$113,957,086",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.65)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "VIOT",
-      "name": "Viomi Technology Co., Ltd",
-      "marketCap": "$106,426,889",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -365,17 +365,6 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "3/25/2024",
-      "lastYearEPS": "($0.99)",
-      "time": "time-not-supplied",
-      "symbol": "ARTL",
-      "name": "Artelo Biosciences, Inc.",
-      "marketCap": "$3,453,639",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.74)",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -405,7 +394,7 @@
       "name": "ZyVersa Therapeutics, Inc.",
       "marketCap": "$2,648,936",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($6.30)",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
