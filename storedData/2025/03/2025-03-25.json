@@ -46,15 +46,15 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "3/26/2024",
-      "lastYearEPS": "($0.62)",
-      "time": "time-not-supplied",
-      "symbol": "GDS",
-      "name": "GDS Holdings Limited",
-      "marketCap": "$6,889,451,405",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "PONY",
+      "name": "Pony AI Inc.",
+      "marketCap": "$5,147,704,880",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.22)",
-      "noOfEsts": "3"
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -385,6 +385,17 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.18)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.11)",
+      "time": "time-after-hours",
+      "symbol": "PRTS",
+      "name": "CarParts.com, Inc.",
+      "marketCap": "$50,580,565",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "3/26/2024",
