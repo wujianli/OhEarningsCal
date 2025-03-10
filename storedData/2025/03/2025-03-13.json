@@ -20,7 +20,7 @@
       "name": "Dollar General Corporation",
       "marketCap": "$16,767,133,081",
       "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "$1.50",
+      "epsForecast": "$1.49",
       "noOfEsts": "24"
     },
     {
@@ -152,7 +152,18 @@
       "name": "Afya Limited",
       "marketCap": "$1,496,757,234",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.34",
+      "epsForecast": "$0.32",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "MNR",
+      "name": "Mach Natural Resources LP",
+      "marketCap": "$1,420,924,332",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.44",
       "noOfEsts": "1"
     },
     {
@@ -339,7 +350,7 @@
       "name": "Allogene Therapeutics, Inc.",
       "marketCap": "$423,537,624",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.34)",
+      "epsForecast": "($0.33)",
       "noOfEsts": "11"
     },
     {
@@ -504,8 +515,8 @@
       "name": "Nyxoah SA",
       "marketCap": "$289,752,600",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.48)",
-      "noOfEsts": "4"
+      "epsForecast": "($0.47)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "3/14/2024",
@@ -559,8 +570,8 @@
       "name": "AC Immune SA",
       "marketCap": "$247,002,594",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.21)",
-      "noOfEsts": "3"
+      "epsForecast": "($0.20)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "3/12/2024",
@@ -883,6 +894,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.80)",
+      "time": "time-after-hours",
+      "symbol": "BAER",
+      "name": "Bridger Aerospace Group Holdings, Inc.",
+      "marketCap": "$100,528,936",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.08",
       "time": "time-not-supplied",
       "symbol": "BKTI",
@@ -1146,17 +1168,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "3/14/2024",
-      "lastYearEPS": "($4.46)",
-      "time": "time-not-supplied",
-      "symbol": "KPLT",
-      "name": "Katapult Holdings, Inc.",
-      "marketCap": "$48,806,765",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
@@ -1242,7 +1253,7 @@
       "marketCap": "$39,190,545",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.49)",
-      "noOfEsts": "3"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1297,17 +1308,6 @@
       "marketCap": "$32,034,380",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.22)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "3/14/2024",
-      "lastYearEPS": "$0.04",
-      "time": "time-not-supplied",
-      "symbol": "HSON",
-      "name": "Hudson Global, Inc.",
-      "marketCap": "$28,895,937",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.06)",
       "noOfEsts": "1"
     },
     {
