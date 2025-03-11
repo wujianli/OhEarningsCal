@@ -97,7 +97,7 @@
       "name": "CG Oncology, Inc.",
       "marketCap": "$1,807,064,916",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.37)",
+      "epsForecast": "($0.41)",
       "noOfEsts": "3"
     },
     {
@@ -242,17 +242,6 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.84)",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "3/26/2024",
-      "lastYearEPS": "($0.03)",
-      "time": "time-not-supplied",
-      "symbol": "BRAG",
-      "name": "Bragg Gaming Group Inc.",
-      "marketCap": "$108,765,763",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -592,8 +581,8 @@
       "name": "NovaBay Pharmaceuticals, Inc.",
       "marketCap": "$2,931,416",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.24)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "3/26/2024",

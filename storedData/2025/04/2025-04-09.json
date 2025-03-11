@@ -9,7 +9,7 @@
       "name": "Delta Air Lines, Inc.",
       "marketCap": "$34,416,855,680",
       "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "$0.87",
+      "epsForecast": "$0.84",
       "noOfEsts": "8"
     },
     {
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "NRIX",
       "name": "Nurix Therapeutics, Inc.",
-      "marketCap": "$1,051,791,284",
+      "marketCap": "$1,031,301,843",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "($0.72)",
       "noOfEsts": "7"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "ASPI",
       "name": "ASP Isotopes Inc.",
-      "marketCap": "$314,830,372",
+      "marketCap": "$280,563,121",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -73,10 +73,10 @@
       "time": "time-not-supplied",
       "symbol": "PCYO",
       "name": "Pure Cycle Corporation",
-      "marketCap": "$264,123,692",
+      "marketCap": "$257,863,695",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/10/2024",
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "LAKE",
       "name": "Lakeland Industries, Inc.",
-      "marketCap": "$149,519,145",
+      "marketCap": "$143,742,774",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.44",
       "noOfEsts": "1"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "THTX",
       "name": "Theratechnologies Inc.",
-      "marketCap": "$69,889,629",
+      "marketCap": "$68,970,029",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -120,7 +120,7 @@
       "marketCap": "$44,621,279",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -128,10 +128,10 @@
       "time": "time-not-supplied",
       "symbol": "SRZN",
       "name": "Surrozen, Inc.",
-      "marketCap": "$38,772,690",
+      "marketCap": "$38,055,135",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($2.54)",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/10/2024",
@@ -139,10 +139,10 @@
       "time": "time-not-supplied",
       "symbol": "RENT",
       "name": "Rent the Runway, Inc.",
-      "marketCap": "$15,373,571",
+      "marketCap": "$14,752,417",
       "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "($3.48)",
-      "noOfEsts": "1"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -153,7 +153,7 @@
       "marketCap": "$9,614,684",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     }
   ]
 }
