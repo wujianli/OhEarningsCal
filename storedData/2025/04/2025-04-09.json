@@ -2,26 +2,26 @@
   "date": "2025-04-09",
   "data": [
     {
-      "lastYearRptDt": "4/10/2024",
-      "lastYearEPS": "$0.45",
-      "time": "time-not-supplied",
-      "symbol": "DAL",
-      "name": "Delta Air Lines, Inc.",
-      "marketCap": "$34,416,855,680",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "$0.84",
-      "noOfEsts": "8"
-    },
-    {
       "lastYearRptDt": "4/11/2024",
       "lastYearEPS": "$2.26",
       "time": "time-after-hours",
       "symbol": "STZ",
       "name": "Constellation Brands Inc",
-      "marketCap": "$33,661,024,335",
+      "marketCap": "$34,242,976,004",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$2.36",
       "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "4/10/2024",
+      "lastYearEPS": "$0.45",
+      "time": "time-not-supplied",
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "marketCap": "$32,511,267,762",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "$0.84",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "4/09/2024",
@@ -29,7 +29,7 @@
       "time": "time-after-hours",
       "symbol": "PSMT",
       "name": "PriceSmart, Inc.",
-      "marketCap": "$2,723,429,483",
+      "marketCap": "$2,694,300,255",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$1.51",
       "noOfEsts": "1"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "PHVS",
       "name": "Pharvaris N.V.",
-      "marketCap": "$784,876,082",
+      "marketCap": "$779,124,159",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.74)",
       "noOfEsts": "5"
@@ -76,7 +76,7 @@
       "marketCap": "$257,863,695",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "4/10/2024",
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd.",
-      "marketCap": "$183,421,580",
+      "marketCap": "$180,828,030",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$0.11",
       "noOfEsts": "2"
@@ -117,10 +117,10 @@
       "time": "time-not-supplied",
       "symbol": "AXIL",
       "name": "AXIL Brands, Inc.",
-      "marketCap": "$44,621,279",
+      "marketCap": "$44,685,947",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -131,7 +131,7 @@
       "marketCap": "$38,055,135",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($2.54)",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "4/10/2024",
@@ -150,10 +150,10 @@
       "time": "time-not-supplied",
       "symbol": "GREE",
       "name": "Greenidge Generation Holdings Inc.",
-      "marketCap": "$9,614,684",
+      "marketCap": "$8,602,671",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     }
   ]
 }
