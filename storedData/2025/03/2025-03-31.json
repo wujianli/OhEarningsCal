@@ -13,6 +13,28 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "4/01/2024",
+      "lastYearEPS": "$3.72",
+      "time": "time-after-hours",
+      "symbol": "PVH",
+      "name": "PVH Corp.",
+      "marketCap": "$3,549,954,364",
+      "fiscalQuarterEnding": "Jan/2025",
+      "epsForecast": "$3.19",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "3/26/2024",
+      "lastYearEPS": "$1.03",
+      "time": "time-after-hours",
+      "symbol": "PRGS",
+      "name": "Progress Software Corporation",
+      "marketCap": "$2,395,306,929",
+      "fiscalQuarterEnding": "Feb/2025",
+      "epsForecast": "$0.79",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "2/07/2024",
       "lastYearEPS": "$0.11",
       "time": "time-after-hours",
@@ -46,6 +68,17 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "3/12/2024",
+      "lastYearEPS": "$45",
+      "time": "time-pre-market",
+      "symbol": "WKHS",
+      "name": "Workhorse Group, Inc.",
+      "marketCap": "$106,654,492",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($6.25)",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "($1.20)",
       "time": "time-after-hours",
@@ -55,6 +88,28 @@
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.70)",
+      "time": "time-after-hours",
+      "symbol": "BHST",
+      "name": "BioHarvest Sciences Inc.",
+      "marketCap": "$101,367,139",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($0.12)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "3/14/2024",
+      "lastYearEPS": "($0.22)",
+      "time": "time-after-hours",
+      "symbol": "BW",
+      "name": "Babcock & Wilcox Enterprises, Inc.",
+      "marketCap": "$91,487,137",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
