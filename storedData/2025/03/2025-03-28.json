@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "TLK",
       "name": "PT Telekomunikasi Indonesia, Tbk",
-      "marketCap": "$14,730,551,608",
+      "marketCap": "$15,057,456,923",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "HUMA",
       "name": "Humacyte, Inc.",
-      "marketCap": "$393,940,222",
+      "marketCap": "$378,837,083",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.23)",
       "noOfEsts": "3"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "SBC",
       "name": "SBC Medical Group Holdings Incorporated",
-      "marketCap": "$320,394,738",
+      "marketCap": "$339,968,693",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.17",
       "noOfEsts": "1"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "ZSPC",
       "name": "zSpace, Inc.",
-      "marketCap": "$231,813,427",
+      "marketCap": "$235,661,892",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.10)",
       "noOfEsts": "1"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "CKPT",
       "name": "Checkpoint Therapeutics, Inc.",
-      "marketCap": "$195,818,325",
+      "marketCap": "$194,841,675",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.22)",
       "noOfEsts": "1"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "COE",
       "name": "51Talk Online Education Group",
-      "marketCap": "$137,033,997",
+      "marketCap": "$122,157,655",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -73,7 +73,7 @@
       "time": "time-pre-market",
       "symbol": "SY",
       "name": "So-Young International Inc.",
-      "marketCap": "$93,176,123",
+      "marketCap": "$97,068,675",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -84,8 +84,19 @@
       "time": "time-not-supplied",
       "symbol": "ALOT",
       "name": "AstroNova, Inc.",
-      "marketCap": "$80,859,720",
+      "marketCap": "$80,182,125",
       "fiscalQuarterEnding": "Jan/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.16",
+      "time": "time-not-supplied",
+      "symbol": "PVL",
+      "name": "Permianville Royalty Trust",
+      "marketCap": "$51,150,000",
+      "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
     },
@@ -95,7 +106,7 @@
       "time": "time-pre-market",
       "symbol": "KPLT",
       "name": "Katapult Holdings, Inc.",
-      "marketCap": "$50,886,115",
+      "marketCap": "$50,930,020",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -104,20 +115,9 @@
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.16",
       "time": "time-not-supplied",
-      "symbol": "PVL",
-      "name": "Permianville Royalty Trust",
-      "marketCap": "$49,830,000",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
       "symbol": "UG",
       "name": "United-Guardian, Inc.",
-      "marketCap": "$45,713,474",
+      "marketCap": "$44,702,724",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "SER",
       "name": "Serina Therapeutics, Inc.",
-      "marketCap": "$39,480,373",
+      "marketCap": "$39,080,235",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -139,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "XOS",
       "name": "Xos, Inc.",
-      "marketCap": "$28,343,584",
+      "marketCap": "$29,066,225",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($1.13)",
       "noOfEsts": "1"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "UTSI",
       "name": "UTStarcom Holdings Corp",
-      "marketCap": "$21,873,048",
+      "marketCap": "$21,417,360",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -161,7 +161,7 @@
       "time": "time-pre-market",
       "symbol": "IPA",
       "name": "ImmunoPrecise Antibodies Ltd.",
-      "marketCap": "$12,664,087",
+      "marketCap": "$13,325,713",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "EFOI",
       "name": "Energy Focus, Inc.",
-      "marketCap": "$11,521,023",
+      "marketCap": "$11,573,630",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "PRZO",
       "name": "ParaZero Technologies Ltd.",
-      "marketCap": "$9,363,240",
+      "marketCap": "$9,095,400",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "MBRX",
       "name": "Moleculin Biotech, Inc.",
-      "marketCap": "$3,272,066",
+      "marketCap": "$3,392,141",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($1.33)",
       "noOfEsts": "1"
@@ -205,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "CASK",
       "name": "Heritage Distilling Holding Company, Inc.",
-      "marketCap": "$2,403,977",
+      "marketCap": "$2,343,646",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -216,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "ATNF",
       "name": "180 Life Sciences Corp.",
-      "marketCap": "$2,115,587",
+      "marketCap": "$2,115,389",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "SLRX",
       "name": "Salarius Pharmaceuticals, Inc.",
-      "marketCap": "$1,246,024",
+      "marketCap": "$1,311,453",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"

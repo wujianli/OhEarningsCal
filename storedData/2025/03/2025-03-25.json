@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "MKC.V",
       "name": "McCormick & Company, Incorporated",
-      "marketCap": "$21,961,834,467",
+      "marketCap": "$21,854,572,761",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "",
       "noOfEsts": "3"
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "MKC",
       "name": "McCormick & Company, Incorporated",
-      "marketCap": "$21,951,108,297",
+      "marketCap": "$21,800,941,907",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$0.64",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-after-hours",
       "symbol": "GME",
       "name": "GameStop Corporation",
-      "marketCap": "$10,499,808,578",
+      "marketCap": "$10,410,448,505",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.09",
       "noOfEsts": "1"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "CNM",
       "name": "Core & Main, Inc.",
-      "marketCap": "$9,506,509,893",
+      "marketCap": "$9,504,523,161",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.36",
       "noOfEsts": "3"
@@ -95,21 +95,10 @@
       "time": "time-after-hours",
       "symbol": "WOR",
       "name": "Worthington Enterprises, Inc.",
-      "marketCap": "$2,073,824,686",
+      "marketCap": "$2,046,800,909",
       "fiscalQuarterEnding": "Feb/2025",
       "epsForecast": "$0.73",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.11",
-      "time": "time-not-supplied",
-      "symbol": "KEN",
-      "name": "Kenon Holdings Ltd.",
-      "marketCap": "$1,859,996,036",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -128,9 +117,20 @@
       "time": "time-not-supplied",
       "symbol": "CDLR",
       "name": "Cadeler A/S",
-      "marketCap": "$1,733,631,300",
+      "marketCap": "$1,752,923,100",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.34",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.11",
+      "time": "time-not-supplied",
+      "symbol": "KEN",
+      "name": "Kenon Holdings Ltd.",
+      "marketCap": "$1,744,438,836",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "",
       "noOfEsts": "3"
     },
     {
@@ -150,7 +150,7 @@
       "time": "time-after-hours",
       "symbol": "NOAH",
       "name": "Noah Holdings Ltd.",
-      "marketCap": "$736,109,777",
+      "marketCap": "$751,855,441",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "MOV",
       "name": "Movado Group Inc.",
-      "marketCap": "$400,564,265",
+      "marketCap": "$395,471,408",
       "fiscalQuarterEnding": "Jan/2025",
       "epsForecast": "$0.39",
       "noOfEsts": "1"
@@ -238,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "DDD",
       "name": "3D Systems Corporation",
-      "marketCap": "$371,599,260",
+      "marketCap": "$359,393,445",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.16)",
       "noOfEsts": "2"
@@ -425,7 +425,7 @@
       "time": "time-after-hours",
       "symbol": "GCTS",
       "name": "GCT Semiconductor Holding, Inc.",
-      "marketCap": "$93,564,175",
+      "marketCap": "$91,177,334",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.15)",
       "noOfEsts": "3"

@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "TSM",
       "name": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "marketCap": "$914,053,638,256",
+      "marketCap": "$897,923,890,100",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$2.02",
       "noOfEsts": "3"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "BX",
       "name": "Blackstone Inc.",
-      "marketCap": "$107,793,085,397",
+      "marketCap": "$106,633,314,076",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$1.22",
       "noOfEsts": "8"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "ELV",
       "name": "Elevance Health, Inc.",
-      "marketCap": "$97,895,442,134",
+      "marketCap": "$99,182,253,724",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$10.60",
       "noOfEsts": "16"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "INFY",
       "name": "Infosys Limited",
-      "marketCap": "$77,100,695,628",
+      "marketCap": "$76,602,468,193",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.19",
       "noOfEsts": "4"
@@ -175,7 +175,7 @@
       "marketCap": "$11,020,683,267",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/18/2024",
@@ -183,7 +183,7 @@
       "time": "time-pre-market",
       "symbol": "ALLY",
       "name": "Ally Financial Inc.",
-      "marketCap": "$10,580,046,054",
+      "marketCap": "$10,656,824,327",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.53",
       "noOfEsts": "10"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "WAL",
       "name": "Western Alliance Bancorporation",
-      "marketCap": "$8,513,816,827",
+      "marketCap": "$8,290,699,158",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$1.80",
       "noOfEsts": "6"
@@ -326,7 +326,7 @@
       "time": "time-not-supplied",
       "symbol": "PFS",
       "name": "Provident Financial Services, Inc",
-      "marketCap": "$2,228,760,540",
+      "marketCap": "$2,219,626,276",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.47",
       "noOfEsts": "3"
@@ -337,7 +337,7 @@
       "time": "time-not-supplied",
       "symbol": "HTH",
       "name": "Hilltop Holdings Inc.",
-      "marketCap": "$2,005,603,383",
+      "marketCap": "$1,999,116,956",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.28",
       "noOfEsts": "3"
@@ -381,7 +381,7 @@
       "time": "time-not-supplied",
       "symbol": "BHLB",
       "name": "Berkshire Hills Bancorp, Inc.",
-      "marketCap": "$1,213,488,893",
+      "marketCap": "$1,221,377,731",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.54",
       "noOfEsts": "3"
@@ -436,10 +436,10 @@
       "time": "time-not-supplied",
       "symbol": "FPH",
       "name": "Five Point Holdings, LLC",
-      "marketCap": "$801,557,066",
+      "marketCap": "$811,966,898",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/18/2024",
@@ -447,7 +447,7 @@
       "time": "time-not-supplied",
       "symbol": "MCB",
       "name": "Metropolitan Bank Holding Corp.",
-      "marketCap": "$618,728,890",
+      "marketCap": "$618,953,393",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$1.61",
       "noOfEsts": "1"
@@ -469,7 +469,7 @@
       "time": "time-pre-market",
       "symbol": "IIIN",
       "name": "Insteel Industries, Inc.",
-      "marketCap": "$533,759,461",
+      "marketCap": "$533,953,767",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.33",
       "noOfEsts": "1"
@@ -535,7 +535,7 @@
       "time": "time-not-supplied",
       "symbol": "PINE",
       "name": "Alpine Income Property Trust, Inc.",
-      "marketCap": "$238,165,393",
+      "marketCap": "$239,781,567",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.43",
       "noOfEsts": "5"
@@ -571,7 +571,7 @@
       "marketCap": "$158,849,691",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/18/2024",
@@ -593,7 +593,7 @@
       "marketCap": "$104,226,620",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -604,7 +604,7 @@
       "marketCap": "$81,902,673",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -615,7 +615,7 @@
       "marketCap": "$71,846,712",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -626,7 +626,7 @@
       "marketCap": "$30,250,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "4/18/2024",
@@ -648,7 +648,7 @@
       "marketCap": "$705,978",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
     }
   ]
 }
