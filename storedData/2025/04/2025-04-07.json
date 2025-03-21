@@ -20,7 +20,7 @@
       "name": "Dave & Buster's Entertainment, Inc.",
       "marketCap": "$725,009,343",
       "fiscalQuarterEnding": "Jan/2025",
-      "epsForecast": "$0.70",
+      "epsForecast": "$0.66",
       "noOfEsts": "5"
     },
     {
@@ -101,17 +101,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.17)",
-      "time": "time-not-supplied",
-      "symbol": "EPRX",
-      "name": "Eupraxia Pharmaceuticals Inc.",
-      "marketCap": "$143,216,912",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
       "lastYearRptDt": "4/01/2024",
       "lastYearEPS": "($0.14)",
       "time": "time-not-supplied",
@@ -142,18 +131,7 @@
       "marketCap": "$96,292,038",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.08)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "4/01/2024",
-      "lastYearEPS": "($0.06)",
-      "time": "time-not-supplied",
-      "symbol": "ATOS",
-      "name": "Atossa Therapeutics, Inc.",
-      "marketCap": "$93,508,072",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -196,8 +174,8 @@
       "name": "Snail, Inc.",
       "marketCap": "$65,039,008",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "epsForecast": "$0.07",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "4/01/2024",
@@ -372,7 +350,7 @@
       "name": "Envoy Medical, Inc.",
       "marketCap": "$30,488,767",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($0.33)",
+      "epsForecast": "($0.32)",
       "noOfEsts": "1"
     },
     {
@@ -483,17 +461,6 @@
       "marketCap": "$19,873,022",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.29)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "CDIO",
-      "name": "Cardio Diagnostics Holdings Inc.",
-      "marketCap": "$18,723,632",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -668,17 +635,6 @@
       "symbol": "JTAI",
       "name": "Jet.AI Inc.",
       "marketCap": "$11,218,268",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.95)",
-      "time": "time-not-supplied",
-      "symbol": "MGRX",
-      "name": "Mangoceuticals, Inc.",
-      "marketCap": "$10,617,406",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -894,33 +850,11 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "VERB",
-      "name": "Verb Technology Company, Inc.",
-      "marketCap": "$5,044,801",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($2.52)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.26)",
       "time": "time-not-supplied",
       "symbol": "BIAF",
       "name": "bioAffinity Technologies, Inc.",
       "marketCap": "$4,464,998",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
-      "time": "time-not-supplied",
-      "symbol": "GBR",
-      "name": "New Concept Energy, Inc",
-      "marketCap": "$4,464,783",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -1009,17 +943,6 @@
       "symbol": "NITO",
       "name": "N2OFF, Inc.",
       "marketCap": "$3,375,697",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "TTNP",
-      "name": "Titan Pharmaceuticals, Inc.",
-      "marketCap": "$3,346,096",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "1"
