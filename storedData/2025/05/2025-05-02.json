@@ -277,39 +277,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$2.29",
-      "time": "time-pre-market",
-      "symbol": "IESC",
-      "name": "IES Holdings, Inc.",
-      "marketCap": "$4,234,603,306",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.32",
-      "time": "time-pre-market",
-      "symbol": "LBTYK",
-      "name": "Liberty Global Ltd.",
-      "marketCap": "$3,965,340,518",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.32",
-      "time": "time-pre-market",
-      "symbol": "LBTYB",
-      "name": "Liberty Global Ltd.",
-      "marketCap": "$3,871,176,759",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "5/01/2024",
       "lastYearEPS": "$1.32",
       "time": "time-pre-market",
@@ -418,17 +385,6 @@
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "$0.25",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.10)",
-      "time": "time-pre-market",
-      "symbol": "PWP",
-      "name": "Perella Weinberg Partners",
-      "marketCap": "$1,497,178,422",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "4/26/2024",
