@@ -3,24 +3,24 @@
   "data": [
     {
       "lastYearRptDt": "5/31/2024",
-      "lastYearEPS": "$0.70",
-      "time": "time-not-supplied",
-      "symbol": "DOOO",
-      "name": "BRP Inc.",
-      "marketCap": "$2,475,774,424",
-      "fiscalQuarterEnding": "Apr/2025",
-      "epsForecast": "$0.29",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "5/31/2024",
       "lastYearEPS": "($2.10)",
       "time": "time-not-supplied",
       "symbol": "GCO",
       "name": "Genesco Inc.",
-      "marketCap": "$223,305,032",
+      "marketCap": "$221,538,902",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "($2.06)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.24)",
+      "time": "time-not-supplied",
+      "symbol": "BRID",
+      "name": "Bridgford Foods Corporation",
+      "marketCap": "$72,070,046",
+      "fiscalQuarterEnding": "Apr/2025",
+      "epsForecast": "",
       "noOfEsts": "2"
     },
     {
@@ -29,21 +29,10 @@
       "time": "time-not-supplied",
       "symbol": "NTRB",
       "name": "Nutriband Inc.",
-      "marketCap": "$71,498,236",
+      "marketCap": "$64,471,108",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "($0.13)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.24)",
-      "time": "time-not-supplied",
-      "symbol": "BRID",
-      "name": "Bridgford Foods Corporation",
-      "marketCap": "$71,253,131",
-      "fiscalQuarterEnding": "Apr/2025",
-      "epsForecast": "",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -62,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "CXAI",
       "name": "CXApp Inc.",
-      "marketCap": "$22,776,652",
+      "marketCap": "$20,796,073",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -73,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "VIVS",
       "name": "VivoSim Labs, Inc.",
-      "marketCap": "$3,546,000",
+      "marketCap": "$3,510,000",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "N/A"
