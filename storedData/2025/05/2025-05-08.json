@@ -5371,6 +5371,17 @@
     },
     {
       "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.04",
+      "time": "time-not-supplied",
+      "symbol": "RAVE",
+      "name": "Rave Restaurant Group, Inc.",
+      "marketCap": "$36,565,597",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.10",
       "time": "time-not-supplied",
       "symbol": "HHS",
