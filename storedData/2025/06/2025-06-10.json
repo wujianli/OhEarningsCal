@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "marketCap": "$421,588,539,560",
+      "marketCap": "$455,043,051,180",
       "fiscalQuarterEnding": "May/2025",
       "epsForecast": "$1.30",
       "noOfEsts": "11"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "CASY",
       "name": "Caseys General Stores, Inc.",
-      "marketCap": "$16,653,812,335",
+      "marketCap": "$16,065,104,931",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "$1.93",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "RBRK",
       "name": "Rubrik, Inc.",
-      "marketCap": "$14,590,180,844",
+      "marketCap": "$15,770,603,904",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "($0.73)",
       "noOfEsts": "5"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "ASO",
       "name": "Academy Sports and Outdoors, Inc.",
-      "marketCap": "$2,627,925,393",
+      "marketCap": "$3,118,399,995",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "$0.84",
       "noOfEsts": "7"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "MAMA",
       "name": "Mama's Creations, Inc.",
-      "marketCap": "$242,870,160",
+      "marketCap": "$249,637,440",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "$0.02",
       "noOfEsts": "1"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "MPAA",
       "name": "Motorcar Parts of America, Inc.",
-      "marketCap": "$192,703,716",
+      "marketCap": "$198,970,504",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "SMID",
       "name": "Smith-Midland Corporation",
-      "marketCap": "$160,039,963",
+      "marketCap": "$174,998,952",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -84,21 +84,10 @@
       "time": "time-not-supplied",
       "symbol": "FRD",
       "name": "Friedman Industries Inc.",
-      "marketCap": "$110,134,469",
+      "marketCap": "$110,204,174",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "6/11/2024",
-      "lastYearEPS": "$0.53",
-      "time": "time-not-supplied",
-      "symbol": "OCCI",
-      "name": "OFS Credit Company, Inc.",
-      "marketCap": "$77,714,452",
-      "fiscalQuarterEnding": "Apr/2025",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "6/11/2024",
@@ -106,21 +95,21 @@
       "time": "time-not-supplied",
       "symbol": "PETS",
       "name": "PetMed Express, Inc.",
-      "marketCap": "$74,776,374",
+      "marketCap": "$80,973,311",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "6/11/2024",
-      "lastYearEPS": "($0.25)",
+      "lastYearEPS": "$0.53",
       "time": "time-not-supplied",
-      "symbol": "VTGN",
-      "name": "VistaGen Therapeutics, Inc.",
-      "marketCap": "$64,651,070",
-      "fiscalQuarterEnding": "Mar/2025",
-      "epsForecast": "($0.53)",
-      "noOfEsts": "3"
+      "symbol": "OCCI",
+      "name": "OFS Credit Company, Inc.",
+      "marketCap": "$78,121,030",
+      "fiscalQuarterEnding": "Apr/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -128,10 +117,21 @@
       "time": "time-not-supplied",
       "symbol": "BTOC",
       "name": "Armlogi Holding Corp.",
-      "marketCap": "$49,179,033",
+      "marketCap": "$73,560,164",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "6/11/2024",
+      "lastYearEPS": "($0.25)",
+      "time": "time-not-supplied",
+      "symbol": "VTGN",
+      "name": "VistaGen Therapeutics, Inc.",
+      "marketCap": "$68,403,141",
+      "fiscalQuarterEnding": "Mar/2025",
+      "epsForecast": "($0.53)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "STRM",
       "name": "Streamline Health Solutions, Inc.",
-      "marketCap": "$11,238,030",
+      "marketCap": "$11,065,644",
       "fiscalQuarterEnding": "Apr/2025",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "YJ",
       "name": "Yunji Inc.",
-      "marketCap": "$7,892,685",
+      "marketCap": "$7,880,864",
       "fiscalQuarterEnding": "Mar/2025",
       "epsForecast": "",
       "noOfEsts": "5"
