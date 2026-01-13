@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ih8E01nj-jyMtVNLIdC7a
+UID:n59Wu5HlwAx-H4vm8bQXq
 SUMMARY:台积电 发布财报
-DTSTAMP:20260112T165605Z
+DTSTAMP:20260113T050010Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.76，当前市值: $1\
 	,678\,522\,091\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:A5IaUER1cSN2_UQ46djVl
+UID:ejNqK4xNAx0PQfHvA9hH6
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20260112T165605Z
+DTSTAMP:20260113T050010Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.90，当
 	前市值: $262\,586\,650\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mMfXh2B9tzHXdg1_cx2EW
+UID:CbjibpHZrOapc5VaKl0kV
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20260112T165605Z
+DTSTAMP:20260113T050010Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.21，当前市值: $11
 	8\,415\,122\,448。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rNDQxNA5pDtxFUXFQ-cK1
+UID:yVk8_YgtWyzOfOLd0EfBC
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20260112T165605Z
+DTSTAMP:20260113T050010Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: $0.01，当前
 	市值: $64\,024\,391\,339。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NET 
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QdxGlPraEiKMiVtZ-DHuG
+UID:a_t_D7BGj7FgDZ6mZGtuU
 SUMMARY:Shopify 发布财报
-DTSTAMP:20260112T165605Z
+DTSTAMP:20260113T050010Z
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:财务季度：Dec/2025。\n代码：SHOP，公司：Shopify，行业: 电子商务。\n预计每股收益: $0.40，当前市
 	值: $214\,072\,976\,844。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SHOP
